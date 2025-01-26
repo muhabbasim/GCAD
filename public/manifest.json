@@ -3,17 +3,17 @@
   "name": "A tech startup delivering leading products through an exclusive business lap",
   "icons": [
     {
-      "src": "fox.png",
+      "src": "gcadlogo-dark.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "fox.png",
+      "src": "gcadlogo-dark.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "fox.png",
+      "src": "gcadlogo-dark.png",
       "type": "image/png",
       "sizes": "512x512"
     }
