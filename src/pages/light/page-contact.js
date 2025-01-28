@@ -1,11 +1,11 @@
 import { Helmet } from 'react-helmet';
-import Footer from '../../components/light/blog-details/Footer';
 import Lines from '../../components/light/common/Lines';
 import ProgressScroll from '../../components/light/common/ProgressScroll';
 import Cursor from '../../components/light/common/cusor';
 import Contact from '../../components/light/contact/Contact';
 import Header from '../../components/light/contact/Header';
 import Navbar from '../../components/light/home-freelancer/Navbar';
+import Footer from '../../components/light/home-main/Footer';
 export default function LPageContact() {
   return (
     <>

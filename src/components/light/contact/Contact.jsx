@@ -21,18 +21,18 @@ function Contact() {
                 <div className="col-md-6">
                   <div className="morinfo mt-30">
                     <h6 className="mb-15">Address</h6>
-                    <p>Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
+                    <p>KSA, Al Shoqiyah, Mecca 25553</p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="morinfo mt-30">
                     <h6 className="mb-15">Email</h6>
-                    <p>Support@uithemez.com</p>
+                    <p>co@begining.online</p>
                   </div>
                 </div>
               </div>
               <div className="phone fz-30 fw-600 mt-30 underline main-color">
-                <a href="/">+1 840 841 25 69</a>
+                <a href="/">+966 59 595 1565</a>
               </div>
               <ul className="rest social-text d-flex mt-60">
                 <li className="mr-30">
@@ -46,7 +46,7 @@ function Contact() {
                   </a>
                 </li>
                 <li className="mr-30">
-                  <a href="/" className="hover-this">
+                  <a href="www.linkedin.com/company/gcad-sa/posts/?feedView=all" target='_blank' rel="noreferrer" className="hover-this">
                     <span className="hover-anim">LinkedIn</span>
                   </a>
                 </li>

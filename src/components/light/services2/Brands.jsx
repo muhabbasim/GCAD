@@ -2,7 +2,7 @@ import React from 'react';
 
 function Brands() {
   return (
-    <section className="brands-crev simple section-padding pb-100">
+    <section className="brands-crev simple section-paddingx pb-100">
       <div className="container">
         <div className="row">
         <div className="col-lg-5 offset-lg-1x md-hidex ">

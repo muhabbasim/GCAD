@@ -3321,6 +3321,10 @@ body.loaded {
   margin: 0 15px;
 }
 
+.navbar .topnav span {
+  font-size: 25px;
+}
+
 .white-burger {
   color: white !important;
 }
@@ -9527,6 +9531,13 @@ footer.clean-footer.crev:before {
 
   .padded-container {
     padding: 20px;
+  }
+  .team .item-container {
+    padding: 40px;
+  }
+  .brands-crev .sec-head {
+    padding: 70px 20px;
+    position: relative;
   }
   .md-mb10 {
     margin-bottom: 10px;
