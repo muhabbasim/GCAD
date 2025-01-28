@@ -28,7 +28,7 @@ function Services() {
           <div className="col-lg-6 valign">
             <div className="content full-width">
               <div className="sec-head mb-50">
-                <h6 className="sub-title mb-15 main-color">Our Products</h6>
+                <h6 className="sub-title mb-15 main-color">Main Product</h6>
                 <h2 className="d-slideup wow">
                   <span className="sideup-text">
                     <span className="up-text">Dall In</span>

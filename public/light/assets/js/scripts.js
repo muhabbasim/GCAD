@@ -745,6 +745,9 @@ $(function () {
 (function () {
   const link = document.querySelectorAll('.hover-this');
   const cursor = document.querySelector('.cursor');
+  const isMobileScreen = () => window.innerWidth <= 768;
+
+
   const animateit = function (e) {
     const hoverAnim = this.querySelector('.hover-anim');
     const { offsetX: x, offsetY: y } = e,
@@ -755,14 +758,42 @@ $(function () {
     hoverAnim.style.transform = `translate(${xMove}px, ${yMove}px)`;
     if (e.type === 'mouseleave') hoverAnim.style.transform = '';
   };
+
+  // const editCursor = (e) => {
+  //   const { clientX: x, clientY: y } = e;
+  //   cursor.style.left = x + 'px';
+  //   cursor.style.top = y + 'px';
+  // };
+  // window.addEventListener('mousemove', editCursor);
+
   const editCursor = (e) => {
-    const { clientX: x, clientY: y } = e;
-    cursor.style.left = x + 'px';
-    cursor.style.top = y + 'px';
+    if (cursor) {
+      const { clientX: x, clientY: y } = e;
+      cursor.style.left = `${x}px`;
+      cursor.style.top = `${y}px`;
+    }
   };
+
+  // Function to toggle cursor visibility based on screen size
+  const toggleCursorVisibility = () => {
+    if (cursor) {
+      if (isMobileScreen()) {
+        cursor.style.display = 'none'; // Hide cursor on mobile
+        window.removeEventListener('mousemove', editCursor); // Remove event listener
+      } else {
+        cursor.style.display = 'block'; // Show cursor on larger screens
+        window.addEventListener('mousemove', editCursor); // Add event listener
+      }
+    }
+  };
+
+  // Run the toggle function on page load and screen resize
+  toggleCursorVisibility();
+  window.addEventListener('resize', toggleCursorVisibility);
+
   link.forEach((b) => b.addEventListener('mousemove', animateit));
   link.forEach((b) => b.addEventListener('mouseleave', animateit));
-  window.addEventListener('mousemove', editCursor);
+
 
   $('a, .cursor-pointer').hover(
     function () {

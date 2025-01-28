@@ -36,7 +36,7 @@ function Services3() {
                       <p className="item-box-desc mb-60">{item.desc}</p>
                     </div>
                     <a href={`${item.link}/${item?.id}`}>
-                      <span>View More</span>
+                      <span>Explore</span>
                       <span className="icon ti-arrow-top-right"></span>
                     </a>
                   </div>

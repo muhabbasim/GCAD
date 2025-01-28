@@ -6,7 +6,7 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg bord blur">
         <div className="container">
           <a className="logo icon-img-100" href="/">
-            <img style={{ width: 170, marginTop: 0 }} src='/light/assets/imgs/gcadlogo-light.png' alt="logo" />
+            <img style={{ width: 130, marginTop: 0 }} src='/light/assets/imgs/gcadlogo-light.png' alt="logo" />
           </a>
           <div
             className="collapse navbar-collapse justify-content-center"
