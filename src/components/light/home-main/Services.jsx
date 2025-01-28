@@ -20,7 +20,7 @@ function Services() {
               </div>
               <img
                 src="/light/assets/imgs/logo/gcad.jpg"
-                alt=""
+                alt="img"
                 className="radius-30"
               />
             </div>

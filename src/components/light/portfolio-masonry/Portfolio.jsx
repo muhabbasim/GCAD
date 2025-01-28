@@ -26,7 +26,7 @@ function Portfolio() {
           <div className="col-lg-6 items design brand">
             <div className="item mt-10">
               <div className="img">
-                <img src="/light/assets/imgs/works/4/h1.jpg" alt="" />
+                <img src="/light/assets/imgs/works/4/h1.jpg" alt="img" />
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
@@ -45,7 +45,7 @@ function Portfolio() {
           <div className="col-lg-3 items width2 brand marketing">
             <div className="item mt-10">
               <div className="img">
-                <img src="/light/assets/imgs/works/4/1.jpg" alt="" />
+                <img src="/light/assets/imgs/works/4/1.jpg" alt="img" />
                 <div className="cont">
                   <h5>
                     <a href="/light/project3">A Nice guy</a>
@@ -60,7 +60,7 @@ function Portfolio() {
           <div className="col-lg-3 items width2 art design">
             <div className="item mt-10">
               <div className="img">
-                <img src="/light/assets/imgs/works/4/2.jpg" alt="" />
+                <img src="/light/assets/imgs/works/4/2.jpg" alt="img" />
                 <div className="cont">
                   <h5>
                     <a href="/light/project3">A Nice guy</a>
@@ -75,7 +75,7 @@ function Portfolio() {
           <div className="col-lg-3 items width2 brand">
             <div className="item mt-10">
               <div className="img">
-                <img src="/light/assets/imgs/works/4/3.jpg" alt="" />
+                <img src="/light/assets/imgs/works/4/3.jpg" alt="img" />
                 <div className="cont">
                   <h5>
                     <a href="/light/project3">A Nice guy</a>
@@ -90,7 +90,7 @@ function Portfolio() {
           <div className="col-lg-3 items width2 design">
             <div className="item mt-10">
               <div className="img">
-                <img src="/light/assets/imgs/works/4/4.jpg" alt="" />
+                <img src="/light/assets/imgs/works/4/4.jpg" alt="img" />
                 <div className="cont">
                   <h5>
                     <a href="/light/project3">A Nice guy</a>
@@ -105,7 +105,7 @@ function Portfolio() {
           <div className="col-lg-6 items art marketing">
             <div className="item mt-10">
               <div className="img">
-                <img src="/light/assets/imgs/works/4/h2.jpg" alt="" />
+                <img src="/light/assets/imgs/works/4/h2.jpg" alt="img" />
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
@@ -124,7 +124,7 @@ function Portfolio() {
           <div className="col-lg-6 items design marketing">
             <div className="item mt-10">
               <div className="img">
-                <img src="/light/assets/imgs/works/4/h3.jpg" alt="" />
+                <img src="/light/assets/imgs/works/4/h3.jpg" alt="img" />
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
@@ -143,7 +143,7 @@ function Portfolio() {
           <div className="col-lg-6 items">
             <div className="item mt-10">
               <div className="img">
-                <img src="/light/assets/imgs/works/4/h4.jpg" alt="" />
+                <img src="/light/assets/imgs/works/4/h4.jpg" alt="img" />
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>

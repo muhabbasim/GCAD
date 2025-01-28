@@ -9,14 +9,14 @@ function Intro2() {
             <div className="row">
               <div className="col-lg-3 valign">
                 <div className="img1 fit-img">
-                  <img src="/light/assets/imgs/intro/01.jpg" alt="" />
+                  <img src="/light/assets/imgs/intro/01.jpg" alt="img" />
                 </div>
               </div>
               <div className="col-lg-5">
                 <div className="img2 fit-img position-re o-hidden">
                   <img
                     src="/light/assets/imgs/intro/2.jpg"
-                    alt=""
+                    alt="img"
                     data-speed="0.2"
                     data-lag="0"
                   />
@@ -25,10 +25,10 @@ function Intro2() {
               <div className="col-lg-4 d-flex align-items-end">
                 <div className="full-width">
                   <div className="img3 fit-img mb-30">
-                    <img src="/light/assets/imgs/intro/02.jpg" alt="" />
+                    <img src="/light/assets/imgs/intro/02.jpg" alt="img" />
                   </div>
                   <div className="img4 fit-img">
-                    <img src="/light/assets/imgs/intro/03.jpg" alt="" />
+                    <img src="/light/assets/imgs/intro/03.jpg" alt="img" />
                   </div>
                 </div>
               </div>
@@ -44,7 +44,7 @@ function Intro2() {
                 If you’re looking for a specialist to build a meaningful digital
                 project you can easily reach us by clicking{' '}
                 <span className="underline">
-                  <a href="#0" className="main-color">
+                  <a href="/" className="main-color">
                     here
                   </a>
                 </span>

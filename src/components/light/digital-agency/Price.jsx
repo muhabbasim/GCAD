@@ -94,7 +94,7 @@ function Price() {
               <div className="item sub-bg radius-10 d-flex align-items-center mb-30">
                 <div className="type">
                   <div className="icon-img-60 mb-10">
-                    <img src="/light/assets/imgs/icon-img/shape1.png" alt="" />
+                    <img src="/light/assets/imgs/icon-img/shape1.png" alt="img" />
                   </div>
                   <h5 className="fw-600">Advanced</h5>
                 </div>
@@ -123,7 +123,7 @@ function Price() {
               <div className="item main-colorbg radius-10 text-dark d-flex align-items-center">
                 <div className="type">
                   <div className="icon-img-60 mb-10">
-                    <img src="/light/assets/imgs/icon-img/shape03.png" alt="" />
+                    <img src="/light/assets/imgs/icon-img/shape03.png" alt="img" />
                   </div>
                   <h5 className="fw-600">Enterprise</h5>
                 </div>

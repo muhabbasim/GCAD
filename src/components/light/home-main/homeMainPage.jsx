@@ -1,4 +1,4 @@
-'use client';
+
 import generateStylesheetObject from '@/common/generateStylesheetsObject';
 import Lines from '@/components/light/common/Lines';
 import ProgressScroll from '@/components/light/common/ProgressScroll';

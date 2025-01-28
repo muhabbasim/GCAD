@@ -64,21 +64,30 @@ $(function () {
     $('.navbar .navbar-collapse').toggleClass('show');
   });
 
-
   $(window).on('scroll', function () {
     var bodyScroll = $(window).scrollTop(),
         navbar = $('.navbar'),
-        logo = $('.navbar .logo img'); // Updated selector to correctly target the <img> inside the logo anchor tag.
+        burgerMenu = $('.navbar .topnav'),
+        logo = $('.navbar .logo img'), // Target the <img> inside the logo anchor tag
+        navItems = $('.navbar-nav li'); // Select all <li> elements inside the .navbar
   
     if (bodyScroll > 300) {
       navbar.addClass('nav-scroll'); // Add 'nav-scroll' class when scrolled more than 300px.
-      logo.attr('src', '/light/assets/imgs/gcadlogo-dark.png'); // Change to the light logo.
+      logo.attr('src', '/light/assets/imgs/gcadlogo-dark.png'); // Change to the dark logo.
+      burgerMenu.removeClass('white-burger');
+
+      navItems.each(function () {
+        $(this).find('a').css('color', 'black'); // Dynamically set the text color to black.
+      });
     } else {
       navbar.removeClass('nav-scroll'); // Remove 'nav-scroll' class when scrolled less than 300px.
-      logo.attr('src', '/light/assets/imgs/gcadlogo-light.png'); // Change back to the dark logo.
+      burgerMenu.addClass('white-burger');
+      logo.attr('src', '/light/assets/imgs/gcadlogo-light.png'); // Change back to the light logo.
+      navItems.each(function () {
+        $(this).find('a').css('color', ''); // Remove inline style to reset to the default color.
+      });
     }
   });
-
 
   function noScroll() {
     window.scrollTo(0, 0);

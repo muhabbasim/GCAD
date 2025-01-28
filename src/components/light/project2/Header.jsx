@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import { gsap } from 'gsap';
 function Header() {
@@ -78,17 +78,17 @@ function Header() {
             <div className="swiper-wrapper">
               <div className="swiper-slide">
                 <div className="img">
-                  <img src="/light/assets/imgs/works/projects/2/1.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/projects/2/1.jpg" alt="img" />
                 </div>
               </div>
               <div className="swiper-slide">
                 <div className="img">
-                  <img src="/light/assets/imgs/works/projects/2/2.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/projects/2/2.jpg" alt="img" />
                 </div>
               </div>
               <div className="swiper-slide">
                 <div className="img">
-                  <img src="/light/assets/imgs/works/projects/2/3.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/projects/2/3.jpg" alt="img" />
                 </div>
               </div>
             </div>

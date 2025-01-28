@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import { Navigation, Pagination, Parallax } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';

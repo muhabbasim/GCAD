@@ -9,7 +9,7 @@ function Portfolio() {
             <div key={i} className="col-lg-4 col-md-6 items">
               <div className="item">
                 <div className="img">
-                  <img src={item.img} alt="" />
+                  <img src={item.img} alt="img" />
                 </div>
                 <div className="cont mt-20">
                   <h5 className="fz-22">

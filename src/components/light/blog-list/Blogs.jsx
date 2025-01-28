@@ -8,7 +8,7 @@ function Blogs() {
           <div className="col-lg-4">
             <div className="item sub-bg mb-40">
               <div className="img">
-                <img src="/light/assets/imgs/blog/b/7.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/b/7.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">
@@ -61,7 +61,7 @@ function Blogs() {
           <div className="col-lg-4">
             <div className="item sub-bg mb-40">
               <div className="img">
-                <img src="/light/assets/imgs/blog/b/10.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/b/10.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">
@@ -114,7 +114,7 @@ function Blogs() {
           <div className="col-lg-4">
             <div className="item sub-bg mb-40">
               <div className="img">
-                <img src="/light/assets/imgs/blog/b/1.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/b/1.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">
@@ -167,7 +167,7 @@ function Blogs() {
           <div className="col-lg-4">
             <div className="item sub-bg mb-40">
               <div className="img">
-                <img src="/light/assets/imgs/blog/b/9.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/b/9.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">
@@ -220,7 +220,7 @@ function Blogs() {
           <div className="col-lg-4">
             <div className="item sub-bg mb-40">
               <div className="img">
-                <img src="/light/assets/imgs/blog/b/4.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/b/4.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">
@@ -273,7 +273,7 @@ function Blogs() {
           <div className="col-lg-4">
             <div className="item sub-bg mb-40">
               <div className="img">
-                <img src="/light/assets/imgs/blog/b/8.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/b/8.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">

@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import { gsap } from 'gsap';
 
@@ -23,7 +23,7 @@ function Error() {
           <div className="row justify-content-center">
             <div className="col-lg-5">
               <div className="img">
-                <img src="/light/assets/imgs/404.png" alt="" />
+                <img src="/light/assets/imgs/404.png" alt="img" />
               </div>
               <div className="text mt-40">
                 <h2 className="mb-10">Page not found</h2>

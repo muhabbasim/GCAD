@@ -8,29 +8,29 @@ function Footer() {
           <div className="row pb-30 bord-thin-bottom">
             <div className="col-lg-5">
               <div className="logo icon-img-120">
-                <img src="assets/imgs/logo-light.png" alt="" />
+                <img src="assets/imgs/logo-light.png" alt="img" />
               </div>
             </div>
             <div className="col-lg-7">
               <div className="social-media d-flex justify-content-end">
                 <ul className="rest d-flex align-items-center fz-14">
                   <li className="hover-this cursor-pointer">
-                    <a href="#0" className="hover-anim">
+                    <a href="/" className="hover-anim">
                       <i className="fab fa-facebook-f mr-10"></i> Facebook
                     </a>
                   </li>
                   <li className="hover-this cursor-pointer ml-50">
-                    <a href="#0" className="hover-anim">
+                    <a href="/" className="hover-anim">
                       <i className="fab fa-dribbble mr-10"></i> Dribbble
                     </a>
                   </li>
                   <li className="hover-this cursor-pointer ml-50">
-                    <a href="#0" className="hover-anim">
+                    <a href="/" className="hover-anim">
                       <i className="fab fa-linkedin-in mr-10"></i> LinkedIn
                     </a>
                   </li>
                   <li className="hover-this cursor-pointer ml-50">
-                    <a href="#0" className="hover-anim">
+                    <a href="/" className="hover-anim">
                       <i className="fab fa-instagram mr-10"></i> Instagram
                     </a>
                   </li>
@@ -56,7 +56,7 @@ function Footer() {
                 <div className="info mt-80 d-flex align-items-center">
                   <div>
                     <a
-                      href="#0"
+                      href="/"
                       className="butn butn-md butn-bord-thin radius-30"
                     >
                       <span className="text">Support@Website.com</span>
@@ -64,7 +64,7 @@ function Footer() {
                   </div>
                   <div>
                     <a
-                      href="#0"
+                      href="/"
                       className="butn butn-md butn-bord-thin radius-30 ml-30"
                     >
                       <span className="text">+2 456 (343) 24 45</span>

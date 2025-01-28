@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation } from 'swiper/modules';
@@ -46,7 +46,7 @@ function Portfolio() {
               <SwiperSlide key={i}>
                 <div className="item">
                   <div className="img">
-                    <img src={item.img} alt="" />
+                    <img src={item.img} alt="img" />
                   </div>
                   <div className="cont d-flex align-items-center mt-30 pb-15 bord-thin-bottom">
                     <div>
@@ -57,7 +57,7 @@ function Portfolio() {
                       <a href={item.link} className="rmore">
                         <img
                           src="/light/assets/imgs/arrow-right.png"
-                          alt=""
+                          alt="img"
                           className="icon-img-20"
                         />
                       </a>

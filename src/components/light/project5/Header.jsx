@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import { gsap } from 'gsap';
 function Header() {
@@ -40,7 +40,7 @@ function Header() {
       <div className="head-img o-hidden mt-100">
         <img
           src="/light/assets/imgs/works/projects/5/1.jpg"
-          alt=""
+          alt="img"
           data-speed="0.2"
           data-lag="0"
         />

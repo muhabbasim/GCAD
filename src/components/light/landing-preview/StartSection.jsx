@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet';
 
@@ -15,7 +15,7 @@ function StartSection() {
         <div className="panel">
           <div className="item">
             <div className="img">
-              <img src="/landing-preview/img/showcase/1.jpg" alt="" />
+              <img src="/landing-preview/img/showcase/1.jpg" alt="img" />
             </div>
             <div className="text-center">
               <h5>Fullscreen slider</h5>
@@ -31,7 +31,7 @@ function StartSection() {
         <div className="panel">
           <div className="item">
             <div className="img">
-              <img src="/landing-preview/img/showcase/2.jpg" alt="" />
+              <img src="/landing-preview/img/showcase/2.jpg" alt="img" />
             </div>
             <div className="text-center">
               <h5>Carousel Showcase</h5>
@@ -47,7 +47,7 @@ function StartSection() {
         <div className="panel">
           <div className="item">
             <div className="img">
-              <img src="/landing-preview/img/showcase/3.jpg" alt="" />
+              <img src="/landing-preview/img/showcase/3.jpg" alt="img" />
             </div>
             <div className="text-center">
               <h5>Creative slider</h5>
@@ -63,7 +63,7 @@ function StartSection() {
         <div className="panel">
           <div className="item">
             <div className="img">
-              <img src="/landing-preview/img/showcase/4.jpg" alt="" />
+              <img src="/landing-preview/img/showcase/4.jpg" alt="img" />
             </div>
             <div className="text-center">
               <h5>Interactive Fullscreen</h5>
@@ -79,7 +79,7 @@ function StartSection() {
         <div className="panel">
           <div className="item">
             <div className="img">
-              <img src="/landing-preview/img/showcase/5.jpg" alt="" />
+              <img src="/landing-preview/img/showcase/5.jpg" alt="img" />
             </div>
             <div className="text-center">
               <h5>Interactive Center</h5>
@@ -95,7 +95,7 @@ function StartSection() {
         <div className="panel">
           <div className="item">
             <div className="img">
-              <img src="/landing-preview/img/showcase/6.jpg" alt="" />
+              <img src="/landing-preview/img/showcase/6.jpg" alt="img" />
             </div>
             <div className="text-center">
               <h5>Interactive Vertical</h5>

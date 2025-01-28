@@ -9,7 +9,7 @@ function Skills() {
             <div className="img md-mb50">
               <img
                 src="/light/assets/imgs/intro/02.jpg"
-                alt=""
+                alt="img"
                 className="radius-30"
               />
               <div className="curv-title main-bg">
@@ -78,7 +78,7 @@ function Skills() {
                   </div>
                   <div className="mt-80">
                     <a
-                      href="#0"
+                      href="/"
                       className="butn-circle-text d-flex align-items-center"
                     >
                       <h6 className="text">Try it for free</h6>

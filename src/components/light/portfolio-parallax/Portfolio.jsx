@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 
 function Portfolio() {
@@ -47,7 +47,7 @@ function Portfolio() {
             <div className="col-lg-6 sub-bg right">
               <div className="cont active" data-tab="tab-1">
                 <div className="img-hiden">
-                  <img src="/light/assets/imgs/works/stand/1.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/stand/1.jpg" alt="img" />
                 </div>
                 <span className="sub-title mb-15 main-color">01. Digital</span>
                 <h2 className="mb-15">Luxury Glassware.</h2>
@@ -81,7 +81,7 @@ function Portfolio() {
               </div>
               <div className="cont" data-tab="tab-2">
                 <div className="img-hiden">
-                  <img src="/light/assets/imgs/works/stand/2.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/stand/2.jpg" alt="img" />
                 </div>
                 <span className="sub-title mb-15 main-color">
                   02. Marketing
@@ -117,7 +117,7 @@ function Portfolio() {
               </div>
               <div className="cont" data-tab="tab-3">
                 <div className="img-hiden">
-                  <img src="/light/assets/imgs/works/stand/3.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/stand/3.jpg" alt="img" />
                 </div>
                 <span className="sub-title mb-15 main-color">03. Design</span>
                 <h2 className="mb-15">Roseville Pottery.</h2>
@@ -151,7 +151,7 @@ function Portfolio() {
               </div>
               <div className="cont" data-tab="tab-4">
                 <div className="img-hiden">
-                  <img src="/light/assets/imgs/works/stand/4.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/stand/4.jpg" alt="img" />
                 </div>
                 <span className="sub-title mb-15 main-color">03. Design</span>
                 <h2 className="mb-15">Roseville Pottery.</h2>
@@ -185,7 +185,7 @@ function Portfolio() {
               </div>
               <div className="cont" data-tab="tab-5">
                 <div className="img-hiden">
-                  <img src="/light/assets/imgs/works/stand/5.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/stand/5.jpg" alt="img" />
                 </div>
                 <span className="sub-title mb-15 main-color">03. Design</span>
                 <h2 className="mb-15">Roseville Pottery.</h2>
@@ -219,7 +219,7 @@ function Portfolio() {
               </div>
               <div className="cont" data-tab="tab-6">
                 <div className="img-hiden">
-                  <img src="/light/assets/imgs/works/stand/6.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/stand/6.jpg" alt="img" />
                 </div>
                 <span className="sub-title mb-15 main-color">03. Design</span>
                 <h2 className="mb-15">Roseville Pottery.</h2>

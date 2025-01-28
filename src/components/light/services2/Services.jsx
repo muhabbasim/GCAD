@@ -49,7 +49,7 @@ function Services() {
                 <h4>Web Developments</h4>
               </div>
               <div className="img">
-                <img src="/light/assets/imgs/works/1/1.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/1.jpg" alt="img" />
               </div>
               <div className="more text-u ls1 fz-12">
                 <a href="/light/page-services-details">
@@ -63,7 +63,7 @@ function Services() {
                 <h4>UI / UX Designing</h4>
               </div>
               <div className="img">
-                <img src="/light/assets/imgs/works/1/2.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/2.jpg" alt="img" />
               </div>
               <div className="more text-u ls1 fz-12">
                 <a href="/light/page-services-details">
@@ -77,7 +77,7 @@ function Services() {
                 <h4>Digital Marketing</h4>
               </div>
               <div className="img">
-                <img src="/light/assets/imgs/works/1/3.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/3.jpg" alt="img" />
               </div>
               <div className="more text-u ls1 fz-12">
                 <a href="/light/page-services-details">
@@ -91,7 +91,7 @@ function Services() {
                 <h4>Product Design</h4>
               </div>
               <div className="img">
-                <img src="/light/assets/imgs/works/1/4.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/4.jpg" alt="img" />
               </div>
               <div className="more text-u ls1 fz-12">
                 <a href="/light/page-services-details">
@@ -105,7 +105,7 @@ function Services() {
                 <h4>Digital Marketing</h4>
               </div>
               <div className="img">
-                <img src="/light/assets/imgs/works/1/5.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/5.jpg" alt="img" />
               </div>
               <div className="more text-u ls1 fz-12">
                 <a href="/light/page-services-details">

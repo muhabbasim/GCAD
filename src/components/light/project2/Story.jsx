@@ -7,7 +7,7 @@ function Story() {
         <div className="row justify-content-center">
           <div className="col-lg-11">
             <div className="img">
-              <img src="/light/assets/imgs/works/projects/2/4.jpg" alt="" />
+              <img src="/light/assets/imgs/works/projects/2/4.jpg" alt="img" />
             </div>
             <div className="cont section-padding">
               <div className="row">
@@ -33,7 +33,7 @@ function Story() {
               </div>
             </div>
             <div className="img">
-              <img src="/light/assets/imgs/works/projects/2/5.jpg" alt="" />
+              <img src="/light/assets/imgs/works/projects/2/5.jpg" alt="img" />
             </div>
             <div className="cont section-padding">
               <div className="row">
@@ -59,7 +59,7 @@ function Story() {
               </div>
             </div>
             <div className="img">
-              <img src="/light/assets/imgs/works/projects/2/6.jpg" alt="" />
+              <img src="/light/assets/imgs/works/projects/2/6.jpg" alt="img" />
             </div>
           </div>
         </div>

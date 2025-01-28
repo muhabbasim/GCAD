@@ -63,16 +63,16 @@ import LHomeMain from './pages/light/home-main';
 // import LHomeModernAgency from './pages/light/home-modern-agency';
 // import LHomePersonalVcard from './pages/light/home-personal-vcard';
 // import LHomeStartupOnePage from './pages/light/home-startup-onepage';
-// import LPageAbout from './pages/light/page-about';
+import LPageAbout from './pages/light/page-about';
 // import LPageAbout2 from './pages/light/page-about2';
 // import LPageAbout3 from './pages/light/page-about3';
-// import LPageContact from './pages/light/page-contact';
+import LPageContact from './pages/light/page-contact';
 // import LPageContact2 from './pages/light/page-contact2';
 // import LPageContact3 from './pages/light/page-contact3';
 // import LPageError404 from './pages/light/page-error404';
 // import LPageFAQS from './pages/light/page-FAQS';
-// import LPageServices from './pages/light/page-services';
-// import LPageServicesDetails from './pages/light/page-services-details';
+import LPageServices from './pages/light/page-services';
+import LPageServicesDetails from './pages/light/page-services-details';
 // import LPageServices2 from './pages/light/page-services2';
 // import LPageTeam from './pages/light/page-team';
 // import LPageTeamSingle from './pages/light/page-team-single';
@@ -100,8 +100,11 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<LHomeMain />} />
+        <Route path="/about" element={<LPageAbout />} />
+        <Route path="/contact" element={<LPageContact />} />
+        <Route path="/services" element={<LPageServices />} />
+        <Route path="/services-details/:id" element={<LPageServicesDetails />} />
       </Routes>
-
     </Router>
   );
 }

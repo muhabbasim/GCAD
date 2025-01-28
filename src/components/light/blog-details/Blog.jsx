@@ -55,12 +55,12 @@ function Blog() {
                   <div className="row">
                     <div className="col-sm-6">
                       <div className="iner-img sm-mb30">
-                        <img src="/light/assets/imgs/blog/b2.jpg" alt="" />
+                        <img src="/light/assets/imgs/blog/b2.jpg" alt="img" />
                       </div>
                     </div>
                     <div className="col-sm-6">
                       <div className="iner-img">
-                        <img src="/light/assets/imgs/blog/b3.jpg" alt="" />
+                        <img src="/light/assets/imgs/blog/b3.jpg" alt="img" />
                       </div>
                     </div>
                   </div>
@@ -153,7 +153,7 @@ function Blog() {
                     <div className="img">
                       <img
                         src="/light/assets/imgs/blog/author.png"
-                        alt=""
+                        alt="img"
                         className="circle-img"
                       />
                     </div>
@@ -271,7 +271,7 @@ function Blog() {
                   <div>
                     <div className="img">
                       <a href="/light/blog-list">
-                        <img src="/light/assets/imgs/blog/c1.jpg" alt="" />
+                        <img src="/light/assets/imgs/blog/c1.jpg" alt="img" />
                         <span className="date">
                           <span>
                             14 / <br /> sep
@@ -295,7 +295,7 @@ function Blog() {
                   <div>
                     <div className="img">
                       <a href="/light/blog-list">
-                        <img src="/light/assets/imgs/blog/c2.jpg" alt="" />
+                        <img src="/light/assets/imgs/blog/c2.jpg" alt="img" />
                         <span className="date">
                           <span>
                             14 / <br /> sep
@@ -319,7 +319,7 @@ function Blog() {
                   <div>
                     <div className="img">
                       <a href="/light/blog-list">
-                        <img src="/light/assets/imgs/blog/c3.jpg" alt="" />
+                        <img src="/light/assets/imgs/blog/c3.jpg" alt="img" />
                         <span className="date">
                           <span>
                             14 / <br /> sep

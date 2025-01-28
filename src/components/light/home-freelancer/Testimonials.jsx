@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation } from 'swiper/modules';
@@ -83,7 +83,7 @@ function Testimonials() {
                     <div className="info mt-40">
                       <div className="img-curv">
                         <div className="img">
-                          <img src={item.img} alt="" />
+                          <img src={item.img} alt="img" />
                         </div>
                       </div>
                       <div className="ml-20">

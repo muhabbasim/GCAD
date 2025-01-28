@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import data from '../../../l-data/clients';
@@ -46,7 +46,7 @@ function Clients() {
               <SwiperSlide key={i}>
                 <div className="item">
                   <div className="img icon-img-100">
-                    <img src={item} alt="" />
+                    <img src={item} alt="img" />
                   </div>
                 </div>
               </SwiperSlide>

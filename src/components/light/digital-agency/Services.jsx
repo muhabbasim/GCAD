@@ -24,7 +24,7 @@ function Services() {
             <div key={i} className="col-lg-4">
               <div className="item-box radius-15 md-mb50">
                 <div className="icon mb-40 opacity-5">
-                  <img src={item.img} alt="" />
+                  <img src={item.img} alt="img" />
                 </div>
                 <h5 className="mb-15">{item.title}</h5>
                 <p>{item.desc}</p>
@@ -32,7 +32,7 @@ function Services() {
                   <span className="sub-title">Read More</span>
                   <img
                     src="/light/assets/imgs/arrow-right.png"
-                    alt=""
+                    alt="img"
                     className="icon-img-20 ml-5"
                   />
                 </a>

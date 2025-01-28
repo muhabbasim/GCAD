@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -61,7 +61,7 @@ function Testimonials() {
                         <div className="info d-flex align-items-center pt-40 mt-40 bord-thin-top">
                           <div>
                             <div className="fit-img circle">
-                              <img src={item.img} alt="" />
+                              <img src={item.img} alt="img" />
                             </div>
                           </div>
                           <div className="ml-20">

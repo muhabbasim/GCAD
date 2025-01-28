@@ -46,7 +46,7 @@ function Next() {
         </div>
       </div>
       <div>
-        <a href="#0" className="all-works-butn text-center">
+        <a href="/" className="all-works-butn text-center">
           <span className="ti-view-grid fz-24 mb-10"></span>
           <span className="d-block fz-12 text-u ls1">all Projects</span>
         </a>

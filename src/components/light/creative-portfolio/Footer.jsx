@@ -6,7 +6,7 @@ function Footer() {
       <div className="container pb-40 pt-80 ontop">
         <div className="d-flex justify-content-center mb-30">
           <div className="logo icon-img-120">
-            <img src="/light/assets/imgs/logo-light.png" alt="" />
+            <img src="/light/assets/imgs/logo-light.png" alt="img" />
           </div>
         </div>
         <div className="info-comp d-flex align-items-center justify-content-center pt-40 pb-40 bord-thin-bottom bord-thin-top">
@@ -27,22 +27,22 @@ function Footer() {
           <div className="col-lg-4 col-md-6 md-mb15">
             <ul className="rest d-flex align-items-center">
               <li className="hover-this cursor-pointer">
-                <a href="#0" className="hover-anim">
+                <a href="/" className="hover-anim">
                   <i className="fab fa-facebook-f"></i>
                 </a>
               </li>
               <li className="hover-this cursor-pointer ml-30">
-                <a href="#0" className="hover-anim">
+                <a href="/" className="hover-anim">
                   <i className="fab fa-dribbble"></i>
                 </a>
               </li>
               <li className="hover-this cursor-pointer ml-30">
-                <a href="#0" className="hover-anim">
+                <a href="/" className="hover-anim">
                   <i className="fab fa-linkedin-in"></i>
                 </a>
               </li>
               <li className="hover-this cursor-pointer ml-30">
-                <a href="#0" className="hover-anim">
+                <a href="/" className="hover-anim">
                   <i className="fab fa-instagram"></i>
                 </a>
               </li>

@@ -11,7 +11,7 @@ function Blog() {
               Read Latest <span className="fw-200">News</span>
             </h2>
             <div className="ml-auto">
-              <a href="#0" className="go-more">
+              <a href="/" className="go-more">
                 <span className="text">View all posts</span>
                 <span className="icon ti-arrow-top-right"></span>
               </a>
@@ -22,7 +22,7 @@ function Blog() {
           <div className="col-lg-4">
             <div className="item sub-bg md-mb50">
               <div className="img">
-                <img src="/light/assets/imgs/blog/c1.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/c1.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">
@@ -68,7 +68,7 @@ function Blog() {
           <div className="col-lg-4">
             <div className="item sub-bg md-mb50">
               <div className="img">
-                <img src="/light/assets/imgs/blog/c2.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/c2.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">
@@ -114,7 +114,7 @@ function Blog() {
           <div className="col-lg-4">
             <div className="item sub-bg">
               <div className="img">
-                <img src="/light/assets/imgs/blog/c3.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/c3.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">

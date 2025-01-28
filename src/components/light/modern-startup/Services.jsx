@@ -27,7 +27,7 @@ function Services() {
                   <div>
                     <span className="num fz-20">01.</span>
                     <div className="icon mr-80">
-                      <img src={item.img} alt="" />
+                      <img src={item.img} alt="img" />
                     </div>
                   </div>
                   <div>

@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import { gsap } from 'gsap';
 function Header() {
@@ -25,7 +25,7 @@ function Header() {
         <div className="text-center">
           <h1>Portfolio Gallery.</h1>
           <div className="mt-15">
-            <a href="#0">Home</a>
+            <a href="/">Home</a>
             <span className="padding-rl-20">|</span>
             <span className="main-color">Portfolio</span>
           </div>

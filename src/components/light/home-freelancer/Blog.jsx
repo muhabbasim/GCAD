@@ -22,7 +22,7 @@ function Blog() {
           <div className="col-lg-4">
             <div className="item sub-bg md-mb50">
               <div className="img">
-                <img src="/light/assets/imgs/blog/c4.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/c4.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">
@@ -68,7 +68,7 @@ function Blog() {
           <div className="col-lg-4">
             <div className="item sub-bg md-mb50">
               <div className="img">
-                <img src="/light/assets/imgs/blog/c5.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/c5.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">
@@ -114,7 +114,7 @@ function Blog() {
           <div className="col-lg-4">
             <div className="item sub-bg">
               <div className="img">
-                <img src="/light/assets/imgs/blog/c6.jpg" alt="" />
+                <img src="/light/assets/imgs/blog/c6.jpg" alt="img" />
                 <div className="tag sub-bg">
                   <span>Envato</span>
                   <div className="shap-right-bottom">

@@ -1,18 +1,28 @@
-'use client';
+
 import React, { useEffect, useRef, useState } from 'react';
 
 function Contact() {
   const [isVisible, setVisible] = useState(false);
   const domRef = useRef();
-
+  
   useEffect(() => {
+    const currentElement = domRef.current;
+
     const observer = new IntersectionObserver((entries) => {
       entries.forEach((entry) => setVisible(entry.isIntersecting));
     });
 
-    observer.observe(domRef.current);
-    return () => observer.unobserve(domRef.current);
+    if (currentElement) {
+      observer.observe(currentElement);
+    }
+
+    return () => {
+      if (currentElement) {
+        observer.unobserve(currentElement);
+      }
+    };
   }, []);
+
   return (
     <section
       className="contact-crev section-padding bord-thin-bottom bord-thin-top"
@@ -39,26 +49,26 @@ function Contact() {
                 we’d love to hear from you!
               </p>
               <div className="phone fz-30 fw-600 mt-80 underline main-color">
-                <a href="#0">+1 840 841 25 69</a>
+                <a href="/">+966 59 595 1565</a>
               </div>
               <ul className="rest social-text d-flex mt-40">
                 <li className="mr-30">
-                  <a href="#0" className="hover-this">
+                  <a href="/" className="hover-this">
                     <span className="hover-anim">Facebook</span>
                   </a>
                 </li>
                 <li className="mr-30">
-                  <a href="#0" className="hover-this">
+                  <a href="/" className="hover-this">
                     <span className="hover-anim">Twitter</span>
                   </a>
                 </li>
                 <li className="mr-30">
-                  <a href="#0" className="hover-this">
+                  <a href="/" className="hover-this">
                     <span className="hover-anim">LinkedIn</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#0" className="hover-this">
+                  <a href="/" className="hover-this">
                     <span className="hover-anim">Instagram</span>
                   </a>
                 </li>

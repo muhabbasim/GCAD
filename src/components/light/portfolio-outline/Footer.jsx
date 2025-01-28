@@ -17,7 +17,7 @@ function Footer() {
         <div className="row">
           <div className="col-lg-3">
             <div className="logo icon-img-100">
-              <img src="/light/assets/imgs/logo-light.png" alt="" />
+              <img src="/light/assets/imgs/logo-light.png" alt="img" />
             </div>
           </div>
           <div className="col-lg-4">
@@ -29,7 +29,7 @@ function Footer() {
                 </h5>
               </div>
 
-              <a href="#0" className="underline">
+              <a href="/" className="underline">
                 <span className="fz-22 main-color">+2 456 (343) 24 45</span>
               </a>
             </div>
@@ -77,22 +77,22 @@ function Footer() {
           <div>
             <ul className="rest d-flex align-items-center">
               <li className="hover-this cursor-pointer">
-                <a href="#0" className="hover-anim">
+                <a href="/" className="hover-anim">
                   <i className="fab fa-facebook-f"></i>
                 </a>
               </li>
               <li className="hover-this cursor-pointer ml-30">
-                <a href="#0" className="hover-anim">
+                <a href="/" className="hover-anim">
                   <i className="fab fa-dribbble"></i>
                 </a>
               </li>
               <li className="hover-this cursor-pointer ml-30">
-                <a href="#0" className="hover-anim">
+                <a href="/" className="hover-anim">
                   <i className="fab fa-linkedin-in"></i>
                 </a>
               </li>
               <li className="hover-this cursor-pointer ml-30">
-                <a href="#0" className="hover-anim">
+                <a href="/" className="hover-anim">
                   <i className="fab fa-instagram"></i>
                 </a>
               </li>

@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import { gsap } from 'gsap';
 function Slider() {
@@ -22,10 +22,10 @@ function Slider() {
           <div className="col-lg-10">
             <div className="caption">
               <div className="sub-title fz-12">
-                <a href="#0">
+                <a href="/">
                   <span>Design , </span>
                 </a>
-                <a href="#0">
+                <a href="/">
                   <span>Development</span>
                 </a>
               </div>
@@ -38,21 +38,21 @@ function Slider() {
                 <div className="d-flex align-items-center">
                   <div className="author-info">
                     <div className="d-flex align-items-center">
-                      <a href="#0" className="circle-60">
+                      <a href="/" className="circle-60">
                         <img
                           src="/light/assets/imgs/blog/author.png"
-                          alt=""
+                          alt="img"
                           className="circle-img"
                         />
                       </a>
-                      <a href="#0" className="ml-20">
+                      <a href="/" className="ml-20">
                         <span className="opacity-7">Author</span>
                         <h6 className="fz-16">UiCamp</h6>
                       </a>
                     </div>
                   </div>
                   <div className="date ml-50">
-                    <a href="#0">
+                    <a href="/">
                       <span className="opacity-7">Published</span>
                       <h6 className="fz-16">August 6, 2021</h6>
                     </a>

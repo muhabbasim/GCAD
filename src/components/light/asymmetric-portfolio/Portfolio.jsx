@@ -19,7 +19,7 @@ function Portfolio() {
           <div className="col-lg-3 offset-lg-3 items">
             <div className="item">
               <div className="img">
-                <img src="/light/assets/imgs/works/1/q1.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/q1.jpg" alt="img" />
               </div>
               <div className="cont mt-30">
                 <span className="opacity-7 text-u fz-13 ls1 mb-5">
@@ -34,7 +34,7 @@ function Portfolio() {
           <div className="col-lg-6 items">
             <div className="item">
               <div className="img">
-                <img src="/light/assets/imgs/works/1/q2.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/q2.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-30">
                 <h6>
@@ -49,7 +49,7 @@ function Portfolio() {
           <div className="col-lg-6 items">
             <div className="item">
               <div className="img">
-                <img src="/light/assets/imgs/works/1/q3.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/q3.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-30">
                 <h6>
@@ -64,7 +64,7 @@ function Portfolio() {
           <div className="col-lg-3 offset-lg-2 items d-flex align-items-end">
             <div className="item full-width">
               <div className="img">
-                <img src="/light/assets/imgs/works/1/q4.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/q4.jpg" alt="img" />
               </div>
               <div className="cont mt-30">
                 <span className="opacity-7 text-u fz-13 ls1 mb-5">
@@ -79,7 +79,7 @@ function Portfolio() {
           <div className="col-lg-4 items">
             <div className="item">
               <div className="img">
-                <img src="/light/assets/imgs/works/1/q5.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/q5.jpg" alt="img" />
               </div>
               <div className="cont mt-30">
                 <span className="opacity-7 text-u fz-13 ls1 mb-5">
@@ -96,7 +96,7 @@ function Portfolio() {
               <div className="col-lg-6 items">
                 <div className="item">
                   <div className="img">
-                    <img src="/light/assets/imgs/works/1/q6.jpg" alt="" />
+                    <img src="/light/assets/imgs/works/1/q6.jpg" alt="img" />
                   </div>
                   <div className="cont mt-30">
                     <span className="opacity-7 text-u fz-13 ls1 mb-5">
@@ -111,7 +111,7 @@ function Portfolio() {
               <div className="col-lg-6 items">
                 <div className="item">
                   <div className="img">
-                    <img src="/light/assets/imgs/works/1/q7.jpg" alt="" />
+                    <img src="/light/assets/imgs/works/1/q7.jpg" alt="img" />
                   </div>
                   <div className="cont mt-30">
                     <span className="opacity-7 text-u fz-13 ls1 mb-5">
@@ -128,7 +128,7 @@ function Portfolio() {
           <div className="col-lg-4 items d-flex align-items-end">
             <div className="item full-width">
               <div className="img">
-                <img src="/light/assets/imgs/works/1/q8.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/q8.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-30">
                 <h6>
@@ -143,7 +143,7 @@ function Portfolio() {
           <div className="col-lg-7 offset-lg-1 items">
             <div className="item">
               <div className="img">
-                <img src="/light/assets/imgs/works/1/q9.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/q9.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-30">
                 <h6>

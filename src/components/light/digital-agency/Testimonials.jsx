@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import data from '../../../l-data/testimonials.json';
@@ -44,7 +44,7 @@ function Testimonials() {
                   </div>
                 </div>
                 <div className="col-md-2">
-                  <a href="#0" className="link">
+                  <a href="/" className="link">
                     <svg
                       width="18"
                       height="18"
@@ -74,7 +74,7 @@ function Testimonials() {
                   </div>
                 </div>
                 <div className="col-md-2">
-                  <a href="#0" className="link">
+                  <a href="/" className="link">
                     <svg
                       width="18"
                       height="18"
@@ -104,7 +104,7 @@ function Testimonials() {
                   </div>
                 </div>
                 <div className="col-md-2">
-                  <a href="#0" className="link">
+                  <a href="/" className="link">
                     <svg
                       width="18"
                       height="18"
@@ -134,7 +134,7 @@ function Testimonials() {
                   </div>
                 </div>
                 <div className="col-md-2">
-                  <a href="#0" className="link">
+                  <a href="/" className="link">
                     <svg
                       width="18"
                       height="18"
@@ -164,7 +164,7 @@ function Testimonials() {
                   </div>
                 </div>
                 <div className="col-md-2">
-                  <a href="#0" className="link">
+                  <a href="/" className="link">
                     <svg
                       width="18"
                       height="18"
@@ -232,7 +232,7 @@ function Testimonials() {
                           <div className="info mt-40">
                             <div className="img-curv main-bg">
                               <div className="img">
-                                <img src={item.img} alt="" />
+                                <img src={item.img} alt="img" />
                               </div>
                               <div className="shap-left-top">
                                 <svg

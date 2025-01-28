@@ -15,7 +15,7 @@ function Portfolio() {
         <div className="items col-md-6">
           <div className="item mb-10">
             <div className="img">
-              <img src="/light/assets/imgs/works/1/2.jpg" alt="" />
+              <img src="/light/assets/imgs/works/1/2.jpg" alt="img" />
               <div className="cont">
                 <h5>
                   <a href="/light/project1">Nice guy with a smile</a>
@@ -30,7 +30,7 @@ function Portfolio() {
         <div className="items col-md-6">
           <div className="item mb-10">
             <div className="img">
-              <img src="/light/assets/imgs/works/1/3.jpg" alt="" />
+              <img src="/light/assets/imgs/works/1/3.jpg" alt="img" />
               <div className="cont">
                 <h5>
                   <a href="/light/project1">Nice guy with a smile</a>
@@ -45,7 +45,7 @@ function Portfolio() {
         <div className="items col-12">
           <div className="item">
             <div className="img">
-              <img src="/light/assets/imgs/works/1/h2.png" alt="" />
+              <img src="/light/assets/imgs/works/1/h2.png" alt="img" />
               <div className="cont d-flex align-items-center">
                 <div>
                   <h5>

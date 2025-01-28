@@ -87,31 +87,31 @@ function Interactive() {
       </div>
       <div className="links-img">
         <div className="img" id="tab-1" data-overlay-dark="3">
-          <img src="/light/assets/imgs/works/full/1.jpg" alt="" />
+          <img src="/light/assets/imgs/works/full/1.jpg" alt="img" />
         </div>
         <div className="img" id="tab-2" data-overlay-dark="3">
-          <img src="/light/assets/imgs/works/full/2.jpg" alt="" />
+          <img src="/light/assets/imgs/works/full/2.jpg" alt="img" />
         </div>
         <div className="img" id="tab-3" data-overlay-dark="3">
-          <img src="/light/assets/imgs/works/full/3.jpg" alt="" />
+          <img src="/light/assets/imgs/works/full/3.jpg" alt="img" />
         </div>
         <div className="img" id="tab-4" data-overlay-dark="3">
-          <img src="/light/assets/imgs/works/full/4.jpg" alt="" />
+          <img src="/light/assets/imgs/works/full/4.jpg" alt="img" />
         </div>
         <div className="img" id="tab-5" data-overlay-dark="3">
-          <img src="/light/assets/imgs/works/full/5.jpg" alt="" />
+          <img src="/light/assets/imgs/works/full/5.jpg" alt="img" />
         </div>
         <div className="img" id="tab-6" data-overlay-dark="3">
-          <img src="/light/assets/imgs/works/full/6.jpg" alt="" />
+          <img src="/light/assets/imgs/works/full/6.jpg" alt="img" />
         </div>
         <div className="img" id="tab-7" data-overlay-dark="3">
-          <img src="/light/assets/imgs/works/full/7.jpg" alt="" />
+          <img src="/light/assets/imgs/works/full/7.jpg" alt="img" />
         </div>
         <div className="img" id="tab-8" data-overlay-dark="3">
-          <img src="/light/assets/imgs/works/full/8.jpg" alt="" />
+          <img src="/light/assets/imgs/works/full/8.jpg" alt="img" />
         </div>
         <div className="img" id="tab-9" data-overlay-dark="3">
-          <img src="/light/assets/imgs/works/full/9.jpg" alt="" />
+          <img src="/light/assets/imgs/works/full/9.jpg" alt="img" />
         </div>
       </div>
     </section>

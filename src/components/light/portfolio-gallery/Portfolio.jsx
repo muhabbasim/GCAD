@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import data from '../../../l-data/portfolios/workstand.json';
 import initIsotope from '../../../common/initIsotope';
@@ -36,7 +36,7 @@ function Portfolio() {
               >
                 <div className="item mt-40">
                   <div className="img">
-                    <img src={item.img} alt="" />
+                    <img src={item.img} alt="img" />
                     <div className="cont d-flex align-items-center">
                       <div>
                         <h5 className="fz-22">

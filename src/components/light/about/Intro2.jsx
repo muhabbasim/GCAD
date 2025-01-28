@@ -23,14 +23,14 @@ function Intro2() {
               </div>
               <div className="col-md-5 rest">
                 <div className="img fit-img bord-thin-left">
-                  <img src="/light/assets/imgs/intro/02.jpg" alt="" />
+                  <img src="/light/assets/imgs/intro/02.jpg" alt="img" />
                 </div>
               </div>
             </div>
             <div className="row justify-content-end bord-thin-top rest">
               <div className="col-md-5 rest">
                 <div className="img fit-img">
-                  <img src="/light/assets/imgs/intro/03.jpg" alt="" />
+                  <img src="/light/assets/imgs/intro/03.jpg" alt="img" />
                 </div>
               </div>
               <div className="col-md-5 rest">

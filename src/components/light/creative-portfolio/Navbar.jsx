@@ -5,7 +5,7 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg pt-15">
         <div className="container">
-          <a className="logo icon-img-100" href="#">
+          <a className="logo icon-img-100" href="/">
             <img src="/light/assets/imgs/logo-light.png" alt="logo" />
           </a>
 
@@ -19,7 +19,7 @@ function Navbar() {
 
       <div className="hamenu">
         <div className="logo icon-img-100">
-          <img src="/light/assets/imgs/logo-light.png" alt="" />
+          <img src="/light/assets/imgs/logo-light.png" alt="img" />
         </div>
         <div className="close-menu cursor-pointer ti-close"></div>
         <div className="container">
@@ -560,22 +560,22 @@ function Navbar() {
                   <h6 className="sub-title mb-15 opacity-7">Social Media</h6>
                   <ul className="rest social-text">
                     <li className="mb-10">
-                      <a href="#0" className="hover-this">
+                      <a href="/" className="hover-this">
                         <span className="hover-anim">Facebook</span>
                       </a>
                     </li>
                     <li className="mb-10">
-                      <a href="#0" className="hover-this">
+                      <a href="/" className="hover-this">
                         <span className="hover-anim">Twitter</span>
                       </a>
                     </li>
                     <li className="mb-10">
-                      <a href="#0" className="hover-this">
+                      <a href="/" className="hover-this">
                         <span className="hover-anim">LinkedIn</span>
                       </a>
                     </li>
                     <li>
-                      <a href="#0" className="hover-this">
+                      <a href="/" className="hover-this">
                         <span className="hover-anim">Instagram</span>
                       </a>
                     </li>
@@ -584,10 +584,10 @@ function Navbar() {
                 <div className="item mb-40">
                   <h6 className="sub-title mb-15 opacity-7">Contact Us</h6>
                   <h5>
-                    <a href="#0">Hello@email.com</a>
+                    <a href="/">Hello@email.com</a>
                   </h5>
                   <h5 className="underline mt-10">
-                    <a href="#0">+1 840 841 25 69</a>
+                    <a href="/">+1 840 841 25 69</a>
                   </h5>
                 </div>
               </div>

@@ -97,7 +97,7 @@ function Contact() {
               <h6 className="mb-30 text-u ls1">BUSINESS INQUIRIES</h6>
               <p>Support@uithemez.com</p>
               <h6 className="phone mt-10 underline main-color">
-                <a href="#0">+1 840 841 25 69</a>
+                <a href="/">+1 840 841 25 69</a>
               </h6>
             </div>
           </div>

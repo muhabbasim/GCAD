@@ -21,7 +21,7 @@ function Portfolio() {
             <div className="col-lg-4 items">
               <div className="item">
                 <div className="img" data-tab="tab-1">
-                  <img src="/light/assets/imgs/works/1/1.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/1/1.jpg" alt="img" />
                   <a href="/light/project1" className="link-overlay"></a>
                 </div>
                 <div className="cont">
@@ -33,7 +33,7 @@ function Portfolio() {
             <div className="col-lg-4 items">
               <div className="item">
                 <div className="img" data-tab="tab-2">
-                  <img src="/light/assets/imgs/works/1/2.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/1/2.jpg" alt="img" />
                   <a href="/light/project2" className="link-overlay"></a>
                 </div>
                 <div className="cont">
@@ -45,7 +45,7 @@ function Portfolio() {
             <div className="col-lg-4 items">
               <div className="item">
                 <div className="img" data-tab="tab-3">
-                  <img src="/light/assets/imgs/works/1/3.jpg" alt="" />
+                  <img src="/light/assets/imgs/works/1/3.jpg" alt="img" />
                   <a href="/light/project3" className="link-overlay"></a>
                 </div>
                 <div className="cont">

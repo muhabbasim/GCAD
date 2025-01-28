@@ -9,7 +9,7 @@ function Brands() {
             <div className="row">
               <div className="col-6 item ontop">
                 <div className="img">
-                  <img src="/light/assets/imgs/brands/01.png" alt="" />
+                  <img src="/light/assets/imgs/brands/01.png" alt="img" />
                 </div>
                 <span className="top-left">
                   <svg
@@ -102,7 +102,7 @@ function Brands() {
               </div>
               <div className="col-6 item">
                 <div className="img">
-                  <img src="/light/assets/imgs/brands/02.png" alt="" />
+                  <img src="/light/assets/imgs/brands/02.png" alt="img" />
                 </div>
                 <span className="top-right">
                   <svg
@@ -175,7 +175,7 @@ function Brands() {
               </div>
               <div className="col-lg-3 col-6 item">
                 <div className="img">
-                  <img src="/light/assets/imgs/brands/03.png" alt="" />
+                  <img src="/light/assets/imgs/brands/03.png" alt="img" />
                 </div>
                 <span className="top-right">
                   <svg
@@ -224,7 +224,7 @@ function Brands() {
               </div>
               <div className="col-lg-3 col-6 item ontop">
                 <div className="img">
-                  <img src="/light/assets/imgs/brands/04.png" alt="" />
+                  <img src="/light/assets/imgs/brands/04.png" alt="img" />
                 </div>
                 <span className="top-left">
                   <svg
@@ -317,7 +317,7 @@ function Brands() {
               </div>
               <div className="col-lg-3 col-6 item">
                 <div className="img">
-                  <img src="/light/assets/imgs/brands/05.png" alt="" />
+                  <img src="/light/assets/imgs/brands/05.png" alt="img" />
                 </div>
                 <span className="top-right">
                   <svg

@@ -8,13 +8,13 @@ function Works() {
           <div className="col-lg-6">
             <div className="imgs md-mb80">
               <div className="mb-30">
-                <img src="/light/assets/imgs/works/projects/4/1.jpg" alt="" />
+                <img src="/light/assets/imgs/works/projects/4/1.jpg" alt="img" />
               </div>
               <div className="mb-30">
-                <img src="/light/assets/imgs/works/projects/4/2.jpg" alt="" />
+                <img src="/light/assets/imgs/works/projects/4/2.jpg" alt="img" />
               </div>
               <div>
-                <img src="/light/assets/imgs/works/projects/4/3.jpg" alt="" />
+                <img src="/light/assets/imgs/works/projects/4/3.jpg" alt="img" />
               </div>
             </div>
           </div>

@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import { gsap } from 'gsap';
 
@@ -16,6 +16,7 @@ function Header() {
     // Cleanup function
     return () => tl.kill();
   }, []);
+  
   return (
     <div
       className="header main-header bg-img"
@@ -27,7 +28,7 @@ function Header() {
           <div className="row justify-content-end">
             <div className="col-lg-6">
               <div className="text mb-100">
-                <h4>
+                <h4 style={{ fontWeight: 200 }}>
                   A tech startup delivering leading products through an exclusive business lap
                 </h4>
               </div>
@@ -41,14 +42,14 @@ function Header() {
                 <h6>BUILIDNG DIGITAL BRANDS</h6>
                 {/* <h6 className="ml-auto">GCAD</h6> */}
               </div>
-              <h1>GCAD FACTORY</h1>
+              <h1>GCAD LAP FACTORY </h1>
             </div>
           </div>
           <div className="img">
-            {/* <img src="/light/assets/imgs/header/2.jpg" alt="" /> */}
+            {/* <img src="/light/assets/imgs/header/2.jpg" alt="img" /> */}
             <img 
               src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=2301&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-              alt="" 
+              alt="img" 
               style={{ maxHeight: 500 }}
             />
           </div>

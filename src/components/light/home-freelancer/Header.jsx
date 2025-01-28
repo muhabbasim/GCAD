@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useEffect, useLayoutEffect } from 'react';
 import { gsap } from 'gsap';
 
@@ -23,7 +23,7 @@ function Header() {
         <div className="row justify-content-center">
           <div className="col-lg-6">
             <div className="img">
-              <img src="/light/assets/imgs/intro/freelancer.png" alt="" />
+              <img src="/light/assets/imgs/intro/freelancer.png" alt="img" />
             </div>
           </div>
         </div>

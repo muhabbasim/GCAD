@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useEffect, useRef } from 'react';
 import { Parallax, useParallax } from 'react-scroll-parallax';
 
@@ -22,7 +22,7 @@ function ImageScale() {
               src="/light/assets/imgs/background/2.jpg"
               data-speed="0.2"
               data-lag="0"
-              alt=""
+              alt="img"
             />
             <a
               href="https://youtu.be/AzwC6umvd1s"

@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -46,50 +46,50 @@ function Brands() {
           >
             <SwiperSlide>
               <div className="item">
-                <a href="#0">
-                  <img src="/light/assets/imgs/brands/01.png" alt="" />
+                <a href="/">
+                  <img src="/light/assets/imgs/brands/01.png" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
-                <a href="#0">
-                  <img src="/light/assets/imgs/brands/02.png" alt="" />
+                <a href="/">
+                  <img src="/light/assets/imgs/brands/02.png" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
-                <a href="#0">
-                  <img src="/light/assets/imgs/brands/03.png" alt="" />
+                <a href="/">
+                  <img src="/light/assets/imgs/brands/03.png" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
-                <a href="#0">
-                  <img src="/light/assets/imgs/brands/04.png" alt="" />
+                <a href="/">
+                  <img src="/light/assets/imgs/brands/04.png" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
-                <a href="#0">
-                  <img src="/light/assets/imgs/brands/05.png" alt="" />
+                <a href="/">
+                  <img src="/light/assets/imgs/brands/05.png" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
-                <a href="#0">
-                  <img src="/light/assets/imgs/brands/06.png" alt="" />
+                <a href="/">
+                  <img src="/light/assets/imgs/brands/06.png" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
-                <a href="#0">
-                  <img src="/light/assets/imgs/brands/05.png" alt="" />
+                <a href="/">
+                  <img src="/light/assets/imgs/brands/05.png" alt="img" />
                 </a>
               </div>
             </SwiperSlide>

@@ -9,7 +9,7 @@ function Team() {
             <div className="img">
               <img
                 src="/light/assets/imgs/team/t5.jpg"
-                alt=""
+                alt="img"
                 data-speed="0.2"
                 data-lag="0"
               />

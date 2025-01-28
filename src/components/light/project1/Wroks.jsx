@@ -1,4 +1,4 @@
-'use client';
+
 
 import React, { useEffect } from 'react';
 import data from '../../../l-data/portfolios/works0.json';
@@ -14,7 +14,7 @@ function Wroks() {
           <div key={i} className="panel">
             <div className="item">
               <div className="img">
-                <img src={item} alt="" />
+                <img src={item} alt="img" />
               </div>
             </div>
           </div>

@@ -1,4 +1,4 @@
-'use client';
+
 import { Helmet } from 'react-helmet';
 import Lines from '../components/dark/common/Lines';
 import ProgressScroll from '../components/dark/common/ProgressScroll';

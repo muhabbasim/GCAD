@@ -7,7 +7,7 @@ function FAQS() {
         <div className="row justify-content-between">
           <div className="col-lg-5 valign">
             <div className="faq-img md-mb50">
-              <img src="/light/assets/imgs/intro/03.jpg" alt="" />
+              <img src="/light/assets/imgs/intro/03.jpg" alt="img" />
             </div>
           </div>
           <div className="col-lg-6 valign">

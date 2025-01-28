@@ -50,7 +50,7 @@ function About() {
                 </div>
                 <div>
                   <div className="img fit-img radius-30">
-                    <img src="/light/assets/imgs/intro/03.jpg" alt="" />
+                    <img src="/light/assets/imgs/intro/03.jpg" alt="img" />
                   </div>
                 </div>
               </div>
@@ -111,7 +111,7 @@ function About() {
               <div className="row">
                 <div className="col-6 item ontop">
                   <div className="img">
-                    <img src="/light/assets/imgs/brands/01.png" alt="" />
+                    <img src="/light/assets/imgs/brands/01.png" alt="img" />
                   </div>
                   <span className="top-left">
                     <svg
@@ -204,7 +204,7 @@ function About() {
                 </div>
                 <div className="col-6 item">
                   <div className="img">
-                    <img src="/light/assets/imgs/brands/02.png" alt="" />
+                    <img src="/light/assets/imgs/brands/02.png" alt="img" />
                   </div>
                   <span className="top-right">
                     <svg
@@ -277,7 +277,7 @@ function About() {
                 </div>
                 <div className="col-lg-3 col-6 item">
                   <div className="img">
-                    <img src="/light/assets/imgs/brands/03.png" alt="" />
+                    <img src="/light/assets/imgs/brands/03.png" alt="img" />
                   </div>
                   <span className="top-right">
                     <svg
@@ -326,7 +326,7 @@ function About() {
                 </div>
                 <div className="col-lg-3 col-6 item ontop">
                   <div className="img">
-                    <img src="/light/assets/imgs/brands/04.png" alt="" />
+                    <img src="/light/assets/imgs/brands/04.png" alt="img" />
                   </div>
                   <span className="top-left">
                     <svg
@@ -419,7 +419,7 @@ function About() {
                 </div>
                 <div className="col-lg-3 col-6 item">
                   <div className="img">
-                    <img src="/light/assets/imgs/brands/05.png" alt="" />
+                    <img src="/light/assets/imgs/brands/05.png" alt="img" />
                   </div>
                   <span className="top-right">
                     <svg

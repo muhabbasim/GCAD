@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -9,7 +9,6 @@ function Testimonials() {
     modules: [Navigation],
     navigation: {
       nextEl: '.swiper-arrow-control .swiper-button-next',
-      nextEl: '.swiper-arrow-control .swiper-button-prev',
     },
     spaceBetween: 30,
     loop: true,
@@ -44,7 +43,7 @@ function Testimonials() {
                     <div className="item d-flex align-items-center">
                       <div>
                         <div className="fit-img circle">
-                          <img src={item.img} alt="" />
+                          <img src={item.img} alt="img" />
                         </div>
                       </div>
                       <div className="content ml-100">

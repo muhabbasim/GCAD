@@ -7,7 +7,7 @@ function Portfolio() {
         <div className="row">
           <div className="col-lg-8 items">
             <div className="img">
-              <img src="/light/assets/imgs/works/stand/1.jpg" alt="" />
+              <img src="/light/assets/imgs/works/stand/1.jpg" alt="img" />
             </div>
           </div>
           <div className="col-lg-4 items">
@@ -23,7 +23,7 @@ function Portfolio() {
                   <span className="sub-title">View Project</span>
                   <img
                     src="/light/assets/imgs/arrow-right.png"
-                    alt=""
+                    alt="img"
                     className="icon-img-20 ml-5"
                   />
                 </a>
@@ -43,7 +43,7 @@ function Portfolio() {
                   <span className="sub-title">View Project</span>
                   <img
                     src="/light/assets/imgs/arrow-right.png"
-                    alt=""
+                    alt="img"
                     className="icon-img-20 ml-5"
                   />
                 </a>
@@ -52,12 +52,12 @@ function Portfolio() {
           </div>
           <div className="col-lg-8 items">
             <div className="img">
-              <img src="/light/assets/imgs/works/stand/3.jpg" alt="" />
+              <img src="/light/assets/imgs/works/stand/3.jpg" alt="img" />
             </div>
           </div>
           <div className="col-lg-8 items">
             <div className="img">
-              <img src="/light/assets/imgs/works/stand/5.jpg" alt="" />
+              <img src="/light/assets/imgs/works/stand/5.jpg" alt="img" />
             </div>
           </div>
           <div className="col-lg-4 items">
@@ -73,7 +73,7 @@ function Portfolio() {
                   <span className="sub-title">View Project</span>
                   <img
                     src="/light/assets/imgs/arrow-right.png"
-                    alt=""
+                    alt="img"
                     className="icon-img-20 ml-5"
                   />
                 </a>
@@ -93,7 +93,7 @@ function Portfolio() {
                   <span className="sub-title">View Project</span>
                   <img
                     src="/light/assets/imgs/arrow-right.png"
-                    alt=""
+                    alt="img"
                     className="icon-img-20 ml-5"
                   />
                 </a>
@@ -102,7 +102,7 @@ function Portfolio() {
           </div>
           <div className="col-lg-8 items">
             <div className="img">
-              <img src="/light/assets/imgs/works/stand/7.jpg" alt="" />
+              <img src="/light/assets/imgs/works/stand/7.jpg" alt="img" />
             </div>
           </div>
         </div>

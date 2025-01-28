@@ -2,7 +2,7 @@ import React from 'react';
 
 function Contact() {
   return (
-    <section className="contact section-padding sub-bg">
+    <section className="contact section-padding sub-bg padded-container">
       <div className="container">
         <div className="row">
           <div className="col-lg-5 valign">
@@ -32,26 +32,26 @@ function Contact() {
                 </div>
               </div>
               <div className="phone fz-30 fw-600 mt-30 underline main-color">
-                <a href="#0">+1 840 841 25 69</a>
+                <a href="/">+1 840 841 25 69</a>
               </div>
               <ul className="rest social-text d-flex mt-60">
                 <li className="mr-30">
-                  <a href="#0" className="hover-this">
+                  <a href="/" className="hover-this">
                     <span className="hover-anim">Facebook</span>
                   </a>
                 </li>
                 <li className="mr-30">
-                  <a href="#0" className="hover-this">
+                  <a href="/" className="hover-this">
                     <span className="hover-anim">Twitter</span>
                   </a>
                 </li>
                 <li className="mr-30">
-                  <a href="#0" className="hover-this">
+                  <a href="/" className="hover-this">
                     <span className="hover-anim">LinkedIn</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#0" className="hover-this">
+                  <a href="/" className="hover-this">
                     <span className="hover-anim">Instagram</span>
                   </a>
                 </li>

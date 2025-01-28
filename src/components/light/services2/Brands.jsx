@@ -5,6 +5,18 @@ function Brands() {
     <section className="brands-crev simple section-padding pb-100">
       <div className="container">
         <div className="row">
+        <div className="col-lg-5 offset-lg-1x md-hidex ">
+            <div className="sec-head nocurve">
+              <div className="ontop">
+                <h6 className="sub-title main-color mb-15">
+                  Special Thanks To
+                </h6>
+                <h3 className="fw-600 text-u ls1">
+                  All our <span className="fw-200">partners</span>
+                </h3>
+              </div>
+            </div>
+          </div>
           <div className="col-lg-6 mt-100 order-md-2">
             <div className="row">
               <div className="col-6 item ontop">
@@ -102,7 +114,7 @@ function Brands() {
               </div>
               <div className="col-6 item">
                 <div className="img">
-                  <img src="/light/assets/imgs/brands/02.png" alt="" />
+                  <img src="/light/assets/imgs/brands/02.png" alt="img" />
                 </div>
                 <span className="top-right">
                   <svg
@@ -129,18 +141,7 @@ function Brands() {
               </div>
             </div>
           </div>
-          <div className="col-lg-5 offset-lg-1 md-hide ">
-            <div className="sec-head nocurve">
-              <div className="ontop">
-                <h6 className="sub-title main-color mb-15">
-                  Special Thanks To
-                </h6>
-                <h3 className="fw-600 text-u ls1">
-                  All our <span className="fw-200">partners</span>
-                </h3>
-              </div>
-            </div>
-          </div>
+        
           {/* <div className="col-12 order-md-1">
             <div className="row">
               <div className="col-lg-3 col-6 item empty">
@@ -175,7 +176,7 @@ function Brands() {
               </div>
               <div className="col-lg-3 col-6 item">
                 <div className="img">
-                  <img src="/light/assets/imgs/brands/03.png" alt="" />
+                  <img src="/light/assets/imgs/brands/03.png" alt="img" />
                 </div>
                 <span className="top-right">
                   <svg
@@ -224,7 +225,7 @@ function Brands() {
               </div>
               <div className="col-lg-3 col-6 item ontop">
                 <div className="img">
-                  <img src="/light/assets/imgs/brands/04.png" alt="" />
+                  <img src="/light/assets/imgs/brands/04.png" alt="img" />
                 </div>
                 <span className="top-left">
                   <svg
@@ -317,7 +318,7 @@ function Brands() {
               </div>
               <div className="col-lg-3 col-6 item">
                 <div className="img">
-                  <img src="/light/assets/imgs/brands/05.png" alt="" />
+                  <img src="/light/assets/imgs/brands/05.png" alt="img" />
                 </div>
                 <span className="top-right">
                   <svg

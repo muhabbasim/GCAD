@@ -7,7 +7,7 @@ function Intro() {
         <div className="row justify-content-end">
           <div className="col-sm-9">
             <div className="img to-up fit-img">
-              <img src="/light/assets/imgs/background/4.jpg" alt="" />
+              <img src="/light/assets/imgs/background/4.jpg" alt="img" />
             </div>
           </div>
         </div>

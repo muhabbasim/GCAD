@@ -31,7 +31,7 @@ function Services() {
                 <span className="sub-title">Read More</span>
                 <img
                   src="/light/assets/imgs/arrow-right.png"
-                  alt=""
+                  alt="img"
                   className="icon-img-20 ml-5"
                 />
               </a>
@@ -49,7 +49,7 @@ function Services() {
                 <span className="sub-title">Read More</span>
                 <img
                   src="/light/assets/imgs/arrow-right.png"
-                  alt=""
+                  alt="img"
                   className="icon-img-20 ml-5"
                 />
               </a>
@@ -67,7 +67,7 @@ function Services() {
                 <span className="sub-title">Read More</span>
                 <img
                   src="/light/assets/imgs/arrow-right.png"
-                  alt=""
+                  alt="img"
                   className="icon-img-20 ml-5"
                 />
               </a>

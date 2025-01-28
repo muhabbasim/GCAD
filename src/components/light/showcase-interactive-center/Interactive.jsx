@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import data from '../../../l-data/portfolios/worksfull.json';
 
@@ -25,7 +25,7 @@ function Interactive() {
           >
             <a href={item.link} className="block__link">
               <div className="hover-i">
-                <img className="item-im" src={item.img} alt="" />
+                <img className="item-im" src={item.img} alt="img" />
               </div>
               <div className="cont">
                 <h4 className="f-bold">{item.title}</h4>

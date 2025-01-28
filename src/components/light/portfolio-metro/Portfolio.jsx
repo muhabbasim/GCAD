@@ -8,7 +8,7 @@ function Portfolio() {
           <div className="col-lg-8 col-md-6">
             <div className="item mt-140">
               <div className="img">
-                <img src="/light/assets/imgs/works/stand/1.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/1.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-20">
                 <h5 className="fz-22">
@@ -23,7 +23,7 @@ function Portfolio() {
           <div className="col-lg-4 col-md-6">
             <div className="item mt-140">
               <div className="img">
-                <img src="/light/assets/imgs/works/stand/2.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/2.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-20">
                 <h5 className="fz-22">
@@ -38,7 +38,7 @@ function Portfolio() {
           <div className="col-lg-4 col-md-6">
             <div className="item mt-140">
               <div className="img">
-                <img src="/light/assets/imgs/works/stand/3.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/3.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-20">
                 <h5 className="fz-22">
@@ -53,7 +53,7 @@ function Portfolio() {
           <div className="col-lg-8 col-md-6">
             <div className="item mt-140">
               <div className="img">
-                <img src="/light/assets/imgs/works/stand/4.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/4.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-20">
                 <h5 className="fz-22">
@@ -68,7 +68,7 @@ function Portfolio() {
           <div className="col-lg-8 col-md-6">
             <div className="item mt-140">
               <div className="img">
-                <img src="/light/assets/imgs/works/stand/5.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/5.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-20">
                 <h5 className="fz-22">
@@ -83,7 +83,7 @@ function Portfolio() {
           <div className="col-lg-4 col-md-6">
             <div className="item mt-140">
               <div className="img">
-                <img src="/light/assets/imgs/works/stand/6.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/6.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-20">
                 <h5 className="fz-22">
@@ -98,7 +98,7 @@ function Portfolio() {
           <div className="col-lg-4 col-md-6">
             <div className="item mt-140">
               <div className="img">
-                <img src="/light/assets/imgs/works/stand/7.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/7.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-20">
                 <h5 className="fz-22">
@@ -113,7 +113,7 @@ function Portfolio() {
           <div className="col-lg-8 col-md-6">
             <div className="item mt-140">
               <div className="img">
-                <img src="/light/assets/imgs/works/stand/8.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/8.jpg" alt="img" />
               </div>
               <div className="cont d-flex align-items-center mt-20">
                 <h5 className="fz-22">

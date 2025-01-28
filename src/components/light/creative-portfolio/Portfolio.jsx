@@ -8,7 +8,7 @@ function Portfolio() {
           <div className="col-lg-5">
             <div className="item mb-30">
               <div className="img">
-                <img src="/light/assets/imgs/works/2/1.jpg" alt="" />
+                <img src="/light/assets/imgs/works/2/1.jpg" alt="img" />
                 <div className="cont d-flex align-items-center">
                   <div>
                     <h5>Nice guy with a smile</h5>
@@ -18,7 +18,7 @@ function Portfolio() {
                     <a href="/light/project1" className="rmore">
                       <img
                         src="/light/assets/imgs/arrow-right.png"
-                        alt=""
+                        alt="img"
                         className="icon-img-20"
                       />
                     </a>
@@ -30,7 +30,7 @@ function Portfolio() {
           <div className="col-lg-7">
             <div className="item mb-30">
               <div className="img">
-                <img src="/light/assets/imgs/works/2/2.jpg" alt="" />
+                <img src="/light/assets/imgs/works/2/2.jpg" alt="img" />
                 <div className="cont d-flex align-items-center">
                   <div>
                     <h5>Nice guy with a smile</h5>
@@ -40,7 +40,7 @@ function Portfolio() {
                     <a href="/light/project2" className="rmore">
                       <img
                         src="/light/assets/imgs/arrow-right.png"
-                        alt=""
+                        alt="img"
                         className="icon-img-20"
                       />
                     </a>
@@ -52,7 +52,7 @@ function Portfolio() {
           <div className="col-lg-4">
             <div className="item md-mb30">
               <div className="img">
-                <img src="/light/assets/imgs/works/2/3.jpg" alt="" />
+                <img src="/light/assets/imgs/works/2/3.jpg" alt="img" />
                 <div className="cont d-flex align-items-center">
                   <div>
                     <h5>Nice guy with a smile</h5>
@@ -62,7 +62,7 @@ function Portfolio() {
                     <a href="/light/project3" className="rmore">
                       <img
                         src="/light/assets/imgs/arrow-right.png"
-                        alt=""
+                        alt="img"
                         className="icon-img-20"
                       />
                     </a>
@@ -74,7 +74,7 @@ function Portfolio() {
           <div className="col-lg-4">
             <div className="item md-mb30">
               <div className="img">
-                <img src="/light/assets/imgs/works/2/4.jpg" alt="" />
+                <img src="/light/assets/imgs/works/2/4.jpg" alt="img" />
                 <div className="cont d-flex align-items-center">
                   <div>
                     <h5>Nice guy with a smile</h5>
@@ -84,7 +84,7 @@ function Portfolio() {
                     <a href="/light/project4" className="rmore">
                       <img
                         src="/light/assets/imgs/arrow-right.png"
-                        alt=""
+                        alt="img"
                         className="icon-img-20"
                       />
                     </a>
@@ -96,7 +96,7 @@ function Portfolio() {
           <div className="col-lg-4">
             <div className="item">
               <div className="img">
-                <img src="/light/assets/imgs/works/2/5.jpg" alt="" />
+                <img src="/light/assets/imgs/works/2/5.jpg" alt="img" />
                 <div className="cont d-flex align-items-center">
                   <div>
                     <h5>Nice guy with a smile</h5>
@@ -106,7 +106,7 @@ function Portfolio() {
                     <a href="/light/project5" className="rmore">
                       <img
                         src="/light/assets/imgs/arrow-right.png"
-                        alt=""
+                        alt="img"
                         className="icon-img-20"
                       />
                     </a>

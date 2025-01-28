@@ -9,7 +9,7 @@ function Blogs() {
             <div className="md-mb80">
               <div className="item mb-50">
                 <div className="img">
-                  <img src="/light/assets/imgs/blog/blog1.jpg" alt="" />
+                  <img src="/light/assets/imgs/blog/blog1.jpg" alt="img" />
                 </div>
                 <div className="content main-bg">
                   <div className="d-flex align-items-center mb-15">
@@ -27,7 +27,7 @@ function Blogs() {
                     So striking at of to welcomed resolved. Northward by
                     described up household therefore attention.
                   </p>
-                  <a href="#0" className="d-flex align-items-center mt-40">
+                  <a href="/" className="d-flex align-items-center mt-40">
                     <span className="text mr-15">Read More</span>
                     <span className="ti-arrow-top-right"></span>
                   </a>
@@ -35,7 +35,7 @@ function Blogs() {
               </div>
               <div className="item mb-50">
                 <div className="img">
-                  <img src="/light/assets/imgs/blog/blog2.jpg" alt="" />
+                  <img src="/light/assets/imgs/blog/blog2.jpg" alt="img" />
                 </div>
                 <div className="content main-bg">
                   <div className="d-flex align-items-center mb-15">
@@ -53,7 +53,7 @@ function Blogs() {
                     So striking at of to welcomed resolved. Northward by
                     described up household therefore attention.
                   </p>
-                  <a href="#0" className="d-flex align-items-center mt-40">
+                  <a href="/" className="d-flex align-items-center mt-40">
                     <span className="text mr-15">Read More</span>
                     <span className="ti-arrow-top-right"></span>
                   </a>
@@ -61,7 +61,7 @@ function Blogs() {
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/light/assets/imgs/blog/blog4.jpg" alt="" />
+                  <img src="/light/assets/imgs/blog/blog4.jpg" alt="img" />
                 </div>
                 <div className="content main-bg">
                   <div className="d-flex align-items-center mb-15">
@@ -79,7 +79,7 @@ function Blogs() {
                     So striking at of to welcomed resolved. Northward by
                     described up household therefore attention.
                   </p>
-                  <a href="#0" className="d-flex align-items-center mt-40">
+                  <a href="/" className="d-flex align-items-center mt-40">
                     <span className="text mr-15">Read More</span>
                     <span className="ti-arrow-top-right"></span>
                   </a>
@@ -134,7 +134,7 @@ function Blogs() {
                   <div>
                     <div className="img">
                       <a href="/light/blog-list">
-                        <img src="/light/assets/imgs/blog/c1.jpg" alt="" />
+                        <img src="/light/assets/imgs/blog/c1.jpg" alt="img" />
                         <span className="date">
                           <span>
                             14 / <br /> sep
@@ -158,7 +158,7 @@ function Blogs() {
                   <div>
                     <div className="img">
                       <a href="/light/blog-list">
-                        <img src="/light/assets/imgs/blog/c2.jpg" alt="" />
+                        <img src="/light/assets/imgs/blog/c2.jpg" alt="img" />
                         <span className="date">
                           <span>
                             14 / <br /> sep
@@ -182,7 +182,7 @@ function Blogs() {
                   <div>
                     <div className="img">
                       <a href="/light/blog-list">
-                        <img src="/light/assets/imgs/blog/c3.jpg" alt="" />
+                        <img src="/light/assets/imgs/blog/c3.jpg" alt="img" />
                         <span className="date">
                           <span>
                             14 / <br /> sep

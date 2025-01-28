@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { useParallax } from 'react-scroll-parallax';
 
@@ -29,7 +29,7 @@ function Footer() {
                     Today!
                   </h2>
                   <a
-                    href="#0"
+                    href="/"
                     className="butn butn-bg butn-md radius-30 main-colorbg mt-30"
                   >
                     <span>

@@ -3310,14 +3310,19 @@ body.loaded {
   transform: translateY(80px);
 }
 
+
 .navbar .navbar-nav .nav-link {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 13px;
   font-weight: 600;
-  color: #1a1a1a;
+  color: white;
   padding: 20px 10px 15px 10px;
   margin: 0 15px;
+}
+
+.white-burger {
+  color: white !important;
 }
 
 .navbar .navbar-nav .nav-link .rolling-text {
@@ -5134,7 +5139,7 @@ body.loaded {
 }
 
 .brands-crev .item img {
-  width: 200px;
+  width: 220px;
 }
 
 .brands-crev .item .img,
@@ -7888,6 +7893,7 @@ footer.clean-footer.crev:before {
   bottom: -30px;
 }
 
+
 .services-boxs .items:nth-of-type(even) {
   top: -30px;
 }
@@ -7895,11 +7901,13 @@ footer.clean-footer.crev:before {
 .services-boxs .item-box {
   padding: 60px 40px;
   border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+
 }
 
 .services-boxs .item-box .icon {
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
 }
 
 .services-boxs .item-box.bg {
@@ -7914,11 +7922,18 @@ footer.clean-footer.crev:before {
   -webkit-transition: all 0.5s;
   -o-transition: all 0.5s;
   transition: all 0.5s;
+  
+  display: -webkit-box; /* Use a flex-like layout for multi-line content */
+  -webkit-line-clamp: 3; /* Limit to 3 lines */
+  -webkit-box-orient: vertical; /* Set the orientation of the box */
+  overflow: hidden; /* Hide the rest of the content */
+  text-overflow: ellipsis
 }
 
 .services-boxs .item-box p {
   opacity: 0;
 }
+
 
 .services-boxs .item-box:hover h5,
 .services-boxs .item-box:hover p {
@@ -7933,6 +7948,7 @@ footer.clean-footer.crev:before {
   border: 1px solid rgba(0, 0, 0, 0.08);
   background: rgba(0, 0, 0, 0.01);
   position: relative;
+  border-radius: 15px;
 }
 
 .services-crev .item-box .num {
@@ -7945,6 +7961,31 @@ footer.clean-footer.crev:before {
 .services-crev .item-box .icon {
   width: 80px;
 }
+
+.services-crev .item-box .item-box-desc {
+    display: -webkit-box; /* Use a flex-like layout for multi-line content */
+    -webkit-line-clamp: 3; /* Limit to 3 lines */
+    -webkit-box-orient: vertical; /* Set the orientation of the box */
+    overflow: hidden; /* Hide the rest of the content */
+    text-overflow: ellipsis; /* Add "..." if the content overflows */
+}
+
+
+@media (max-width: 768px) {
+
+  .services-boxs .item-box p {
+    opacity: 1;
+  }
+  .services-boxs .item-box h5,
+  .services-boxs .item-box p {
+    -webkit-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
+
 
 .services-dots .item {
   padding-top: 30px;
@@ -7978,6 +8019,78 @@ footer.clean-footer.crev:before {
 
 .services-details .serv-imgs .img {
   height: 400px;
+}
+
+.service-detail-img-container {
+  position: relative;
+}
+
+.services-details .service-site-title {
+  position: absolute;
+  left: 15px;
+  right: 15px;
+  bottom: -25px;
+  padding: 25px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background: rgba(0, 0, 0, 0.1);
+  -webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+  border-radius: 10px;
+  opacity: 0;
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.service-detail-img-container:hover .service-site-title {
+  opacity: 1;
+  bottom: 10px;
+}
+
+.service-detail-img-container .service-site-title a {
+  transition: all 0.4s;
+  text-decoration-color: rgb(255, 255, 255);; /* Set underline color */
+}
+
+.service-detail-img-container .service-site-title a:hover {
+  color: rgb(255, 90, 90);
+  text-decoration: underline;
+  text-decoration-color: rgb(255, 90, 90);; /* Set underline color */
+  text-decoration-thickness: 2px; /* Set underline thickness */
+  text-underline-offset: 3px;
+  transition: all 0.4s;
+}
+
+@media (max-width: 992px) {
+
+  .services-details .serv-imgs .img {
+    height: 100%;
+  }
+
+  .services-details .service-site-title {
+    position: absolute;
+    left: 15px;
+    right: 15px;
+    bottom: 0px;
+    opacity: 1;
+    transition: all 0.4s;
+  }
+  
+  .service-detail-img-container {
+    margin-top: 50px;
+  }
+
+  .service-detail-img-container:hover .service-site-title {
+    opacity: 1;
+    bottom: 10px;
+  }
+
+  .services-details .details-advantages .list-arrow li {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
 }
 
 /* Sliders
@@ -9411,6 +9524,10 @@ footer.clean-footer.crev:before {
 -----------------------------------------------------------------*/
 /* ====================== [ Start Responsive ] ====================== */
 @media screen and (max-width: 992px) {
+
+  .padded-container {
+    padding: 20px;
+  }
   .md-mb10 {
     margin-bottom: 10px;
   }

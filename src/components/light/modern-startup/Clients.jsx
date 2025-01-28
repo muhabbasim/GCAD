@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -58,35 +58,35 @@ function Clients() {
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/light/assets/imgs/brands/b1.png" alt="" />
+                  <img src="/light/assets/imgs/brands/b1.png" alt="img" />
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/light/assets/imgs/brands/b2.png" alt="" />
+                  <img src="/light/assets/imgs/brands/b2.png" alt="img" />
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/light/assets/imgs/brands/b3.png" alt="" />
+                  <img src="/light/assets/imgs/brands/b3.png" alt="img" />
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/light/assets/imgs/brands/b4.png" alt="" />
+                  <img src="/light/assets/imgs/brands/b4.png" alt="img" />
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/light/assets/imgs/brands/b6.png" alt="" />
+                  <img src="/light/assets/imgs/brands/b6.png" alt="img" />
                 </div>
               </div>
             </SwiperSlide>

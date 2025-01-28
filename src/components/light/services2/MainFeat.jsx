@@ -33,7 +33,7 @@ function MainFeat() {
             <div className="img md-mb50">
               <img
                 src="/light/assets/imgs/intro/2.jpg"
-                alt=""
+                alt="img"
                 className="radius-15"
               />
             </div>

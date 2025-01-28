@@ -1,14 +1,14 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import { gsap } from 'gsap';
 
 function Header() {
   useLayoutEffect(() => {
     const tl = gsap.timeline();
-    tl.fromTo('.header', { y: 200 }, { y: 0 }, '+=2.5');
+    tl.fromTo('.header ', { y: 100 }, { y: 0 }, '0.1');
     tl.fromTo(
-      '.header .container',
-      { opacity: 0, translateY: 40 },
+      '.container',
+      { opacity: 0, translateY: 0 },
       { opacity: 1, translateY: 0 },
       '-=0'
     );
@@ -16,6 +16,7 @@ function Header() {
     // Cleanup function
     return () => tl.kill();
   }, []);
+
   return (
     <div
       className="header page-header bg-img section-padding"

@@ -5,68 +5,38 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg bord blur">
         <div className="container">
-          <a className="logo icon-img-100" href="#">
+          <a className="logo icon-img-100" href="/">
             <img style={{ width: 170, marginTop: 0 }} src='/light/assets/imgs/gcadlogo-light.png' alt="logo" />
           </a>
-
-          {/* <button
-            className="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span className="icon-bar">
-              <i className="fas fa-bars"></i>
-            </span>
-          </button> */}
-
           <div
             className="collapse navbar-collapse justify-content-center"
             id="navbarSupportedContent"
           >
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link" href="#0" data-scroll-nav="0">
+                <a className="nav-link" href="/">
                   <span className="rolling-text">Home</span>
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#0" data-scroll-nav="1">
+                <a className="nav-link" href="/services">
                   <span className="rolling-text">Services</span>
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#0" data-scroll-nav="2">
+                <a href="/about" className="nav-link">
                   <span className="rolling-text">About</span>
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#0" data-scroll-nav="3">
-                  <span className="rolling-text">Portfolio</span>
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#0" data-scroll-nav="4">
-                  <span className="rolling-text">Clients</span>
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#0" data-scroll-nav="5">
-                  <span className="rolling-text">Blog</span>
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#0" data-scroll-nav="6">
+                <a className="nav-link" href="/contact">
                   <span className="rolling-text">Contact</span>
                 </a>
               </li>
             </ul>
           </div>
 
-          <div className="topnav">
+          <div className="topnav white-burger">
             <div className="menu-icon cursor-pointer">
               <span className="icon ti-align-right"></span>
             </div>
@@ -76,7 +46,7 @@ function Navbar() {
 
       <div className="hamenu one-scroll">
         <div className="logo icon-img-100">
-          <img src="/light/assets/imgs/logo-light.png" alt="" />
+          <img src="/light/assets/imgs/logo-light.png" alt="img" />
         </div>
         <div className="close-menu cursor-pointer ti-close"></div>
         <div className="container">
@@ -94,63 +64,36 @@ function Navbar() {
                   <li data-scroll-nav="0">
                     <div className="o-hidden">
                       <div className="link cursor-pointer dmenu">
-                        <span className="fill-text" data-text="Home">
+                        <a href='/' className="fill-text" data-text="Home">
                           Home
-                        </span>
+                        </a>
                       </div>
                     </div>
                   </li>
-                  <li data-scroll-nav="1">
+                  <li>
                     <div className="o-hidden">
                       <div className="link cursor-pointer dmenu">
-                        <span className="fill-text" data-text="Services">
+                        <a href='/services' className="fill-text" data-text="Services">
                           Services
-                        </span>
+                        </a>
                       </div>
                     </div>
                   </li>
-                  <li data-scroll-nav="2">
+                  <li>
                     <div className="o-hidden">
                       <div className="link cursor-pointer dmenu">
-                        <span className="fill-text" data-text="About">
+                        <a href='/about' className="fill-text" data-text="About">
                           About
-                        </span>
+                        </a>
                       </div>
                     </div>
                   </li>
-                  <li data-scroll-nav="3">
+                  <li>
                     <div className="o-hidden">
                       <div className="link cursor-pointer dmenu">
-                        <span className="fill-text" data-text="Portfolio">
-                          Portfolio
-                        </span>
-                      </div>
-                    </div>
-                  </li>
-                  <li data-scroll-nav="4">
-                    <div className="o-hidden">
-                      <div className="link cursor-pointer dmenu">
-                        <span className="fill-text" data-text="Clients">
-                          Clients
-                        </span>
-                      </div>
-                    </div>
-                  </li>
-                  <li data-scroll-nav="5">
-                    <div className="o-hidden">
-                      <div className="link cursor-pointer dmenu">
-                        <span className="fill-text" data-text="Blogs">
-                          Blogs
-                        </span>
-                      </div>
-                    </div>
-                  </li>
-                  <li data-scroll-nav="6">
-                    <div className="o-hidden">
-                      <div className="link cursor-pointer dmenu">
-                        <span className="fill-text" data-text="Contact">
+                        <a href='/contact' className="fill-text" data-text="Contact">
                           Contact
-                        </span>
+                        </a>
                       </div>
                     </div>
                   </li>
@@ -169,22 +112,22 @@ function Navbar() {
                   <h6 className="sub-title mb-15 opacity-7">Social Media</h6>
                   <ul className="rest social-text">
                     <li className="mb-10">
-                      <a href="#0" className="hover-this">
+                      <a href="/" className="hover-this">
                         <span className="hover-anim">Facebook</span>
                       </a>
                     </li>
                     <li className="mb-10">
-                      <a href="#0" className="hover-this">
+                      <a href="/" className="hover-this">
                         <span className="hover-anim">Twitter</span>
                       </a>
                     </li>
                     <li className="mb-10">
-                      <a href="#0" className="hover-this">
+                      <a href="/" className="hover-this">
                         <span className="hover-anim">LinkedIn</span>
                       </a>
                     </li>
                     <li>
-                      <a href="#0" className="hover-this">
+                      <a href="/" className="hover-this">
                         <span className="hover-anim">Instagram</span>
                       </a>
                     </li>
@@ -193,10 +136,10 @@ function Navbar() {
                 <div className="item mb-40">
                   <h6 className="sub-title mb-15 opacity-7">Contact Us</h6>
                   <h5>
-                    <a href="#0">Hello@email.com</a>
+                    <a href="/">Hello@email.com</a>
                   </h5>
                   <h5 className="underline mt-10">
-                    <a href="#0">+1 840 841 25 69</a>
+                    <a href="/">+1 840 841 25 69</a>
                   </h5>
                 </div>
               </div>

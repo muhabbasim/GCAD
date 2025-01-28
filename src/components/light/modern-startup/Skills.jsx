@@ -18,7 +18,7 @@ function Skills() {
                 </div>
                 <div>
                   <div className="img fit-img radius-30">
-                    {/* <img src="/light/assets/imgs/intro/03.jpg" alt="" /> */}
+                    {/* <img src="/light/assets/imgs/intro/03.jpg" alt="img" /> */}
                     <img 
                       src="https://img.freepik.com/free-photo/businessman-touching-glowing-increasing-arrow-business-profit-investment-growth-concept_616485-72.jpg?ga=GA1.1.1799722700.1719322866&semt=ais_incoming" 
                       alt="im" 

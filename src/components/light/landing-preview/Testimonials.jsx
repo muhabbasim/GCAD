@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
@@ -71,7 +71,7 @@ function Testimonials() {
                         <div className="img">
                           <img
                             src="landing-preview/img/envato_logo.png"
-                            alt=""
+                            alt="img"
                           />
                         </div>
                       </div>
@@ -122,7 +122,7 @@ function Testimonials() {
                         <div className="img">
                           <img
                             src="landing-preview/img/envato_logo.png"
-                            alt=""
+                            alt="img"
                           />
                         </div>
                       </div>
@@ -173,7 +173,7 @@ function Testimonials() {
                         <div className="img">
                           <img
                             src="landing-preview/img/envato_logo.png"
-                            alt=""
+                            alt="img"
                           />
                         </div>
                       </div>
@@ -224,7 +224,7 @@ function Testimonials() {
                         <div className="img">
                           <img
                             src="landing-preview/img/envato_logo.png"
-                            alt=""
+                            alt="img"
                           />
                         </div>
                       </div>

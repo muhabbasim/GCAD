@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import { gsap } from 'gsap';
 
@@ -37,104 +37,104 @@ function Header() {
             <div className="box">
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s1.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s1.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s10.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s10.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s3.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s3.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s4.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s4.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s5.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s5.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s6.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s6.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s7.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s7.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s8.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s8.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s9.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s9.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s2.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s2.jpg" alt="img" />
                 </div>
               </div>
             </div>
             <div className="box">
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s1.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s1.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s10.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s10.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s3.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s3.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s4.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s4.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s5.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s5.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s6.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s6.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s7.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s7.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s8.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s8.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s9.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s9.jpg" alt="img" />
                 </div>
               </div>
               <div className="item">
                 <div className="img">
-                  <img src="/landing-preview/img/header/s2.jpg" alt="" />
+                  <img src="/landing-preview/img/header/s2.jpg" alt="img" />
                 </div>
               </div>
             </div>

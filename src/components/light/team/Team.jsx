@@ -10,7 +10,7 @@ function Team() {
             <div key={i} className="col-lg-4">
               <div className="item mb-80">
                 <div className="img">
-                  <img src={item.img} alt="" />
+                  <img src={item.img} alt="img" />
                   <div className="info">
                     <span className="fz-12">{item.subName}</span>
                     <h6 className="fz-18">{item.name}</h6>
@@ -18,13 +18,13 @@ function Team() {
                 </div>
                 <div className="social">
                   <div className="links">
-                    <a href="#0">
+                    <a href="/">
                       <i className="fab fa-facebook-f"></i>
                     </a>
-                    <a href="#0">
+                    <a href="/">
                       <i className="fab fa-behance"></i>
                     </a>
-                    <a href="#0">
+                    <a href="/">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </div>
@@ -36,7 +36,7 @@ function Team() {
             <div key={i} className="col-lg-4">
               <div className="item mb-80">
                 <div className="img">
-                  <img src={item.img} alt="" />
+                  <img src={item.img} alt="img" />
                   <div className="info">
                     <span className="fz-12">{item.subName}</span>
                     <h6 className="fz-18">{item.name}</h6>
@@ -44,13 +44,13 @@ function Team() {
                 </div>
                 <div className="social">
                   <div className="links">
-                    <a href="#0">
+                    <a href="/">
                       <i className="fab fa-facebook-f"></i>
                     </a>
-                    <a href="#0">
+                    <a href="/">
                       <i className="fab fa-behance"></i>
                     </a>
-                    <a href="#0">
+                    <a href="/">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </div>

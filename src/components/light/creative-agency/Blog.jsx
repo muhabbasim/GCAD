@@ -25,7 +25,7 @@ function Blog() {
                 <div className="d-flex align-items-center">
                   <div className="author">
                     <div className="img">
-                      <img src="/light/assets/imgs/blog/author.png" alt="" />
+                      <img src="/light/assets/imgs/blog/author.png" alt="img" />
                     </div>
                   </div>
                   <div className="author-info">
@@ -77,7 +77,7 @@ function Blog() {
                 <div className="d-flex align-items-center">
                   <div className="author">
                     <div className="img">
-                      <img src="/light/assets/imgs/blog/author.png" alt="" />
+                      <img src="/light/assets/imgs/blog/author.png" alt="img" />
                     </div>
                   </div>
                   <div className="author-info">
@@ -130,7 +130,7 @@ function Blog() {
                 <div className="d-flex align-items-center">
                   <div className="author">
                     <div className="img">
-                      <img src="/light/assets/imgs/blog/author.png" alt="" />
+                      <img src="/light/assets/imgs/blog/author.png" alt="img" />
                     </div>
                   </div>
                   <div className="author-info">

@@ -21,7 +21,7 @@ function Process() {
         <div className="row md-marg">
           <div className="col-lg-3 col-md-6 item md-mb50">
             <div className="icon-img-60 mb-30">
-              <img src="/light/assets/imgs/serv-icons/3.png" alt="" />
+              <img src="/light/assets/imgs/serv-icons/3.png" alt="img" />
             </div>
             <h5 className="mb-15">Research</h5>
             <p>
@@ -33,7 +33,7 @@ function Process() {
                 <span className="sub-title">Read More</span>
                 <img
                   src="/light/assets/imgs/arrow-right.png"
-                  alt=""
+                  alt="img"
                   className="icon-img-20 ml-5"
                 />
               </a>
@@ -41,7 +41,7 @@ function Process() {
           </div>
           <div className="col-lg-3 col-md-6 item md-mb50">
             <div className="icon-img-60 mb-30">
-              <img src="/light/assets/imgs/serv-icons/4.png" alt="" />
+              <img src="/light/assets/imgs/serv-icons/4.png" alt="img" />
             </div>
             <h5 className="mb-15">Concept</h5>
             <p>
@@ -53,7 +53,7 @@ function Process() {
                 <span className="sub-title">Read More</span>
                 <img
                   src="/light/assets/imgs/arrow-right.png"
-                  alt=""
+                  alt="img"
                   className="icon-img-20 ml-5"
                 />
               </a>
@@ -61,7 +61,7 @@ function Process() {
           </div>
           <div className="col-lg-3 col-md-6 item sm-mb50">
             <div className="icon-img-60 mb-30">
-              <img src="/light/assets/imgs/serv-icons/5.png" alt="" />
+              <img src="/light/assets/imgs/serv-icons/5.png" alt="img" />
             </div>
             <h5 className="mb-15">Implement</h5>
             <p>
@@ -73,7 +73,7 @@ function Process() {
                 <span className="sub-title">Read More</span>
                 <img
                   src="/light/assets/imgs/arrow-right.png"
-                  alt=""
+                  alt="img"
                   className="icon-img-20 ml-5"
                 />
               </a>
@@ -81,7 +81,7 @@ function Process() {
           </div>
           <div className="col-lg-3 col-md-6 item">
             <div className="icon-img-60 mb-30">
-              <img src="/light/assets/imgs/serv-icons/6.png" alt="" />
+              <img src="/light/assets/imgs/serv-icons/6.png" alt="img" />
             </div>
             <h5 className="mb-15">Handover</h5>
             <p>
@@ -93,7 +93,7 @@ function Process() {
                 <span className="sub-title">Read More</span>
                 <img
                   src="/light/assets/imgs/arrow-right.png"
-                  alt=""
+                  alt="img"
                   className="icon-img-20 ml-5"
                 />
               </a>

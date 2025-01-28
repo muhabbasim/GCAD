@@ -24,7 +24,7 @@ function About() {
                   <div className="img fit-img radius-30">
                     <img
                       src="/light/assets/imgs/intro/freelancer-intro.jpg"
-                      alt=""
+                      alt="img"
                     />
                   </div>
                 </div>
@@ -101,7 +101,7 @@ function About() {
                 </div>
               </div>
               <a
-                href="#0"
+                href="/"
                 className="butn butn-md main-colorbg radius-30 mt-40"
               >
                 <span className="text-dark">Dwonload CV</span>

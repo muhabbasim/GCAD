@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import { gsap } from 'gsap';
 function Header() {
@@ -21,7 +21,7 @@ function Header() {
         <div className="row">
           <div className="col-lg-3 left-clumn">
             <div className="img">
-              <img src="/light/assets/imgs/intro/02.jpg" alt="" />
+              <img src="/light/assets/imgs/intro/02.jpg" alt="img" />
             </div>
             <div>
               <h2 className="fz-80">
@@ -72,7 +72,7 @@ function Header() {
               </div>
             </div>
             <div className="img">
-              <img src="/light/assets/imgs/intro/03.jpg" alt="" />
+              <img src="/light/assets/imgs/intro/03.jpg" alt="img" />
             </div>
           </div>
         </div>

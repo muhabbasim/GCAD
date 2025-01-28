@@ -7,7 +7,7 @@ function Amazing() {
         <div className="row">
           <div className="col-lg-6">
             <div className="img md-mb50">
-              <img src="/landing-preview/img/resp.png" alt="" />
+              <img src="/landing-preview/img/resp.png" alt="img" />
             </div>
           </div>
           <div className="col-lg-5 offset-lg-1 valign">
@@ -22,7 +22,7 @@ function Amazing() {
                 content accordingly to provide fully responsive and optimised
                 sites.
               </p>
-              <a href="#0" className="go-more mt-50">
+              <a href="/" className="go-more mt-50">
                 <span className="text main-color">Explore More</span>
                 <span className="icon ti-arrow-top-right"></span>
               </a>

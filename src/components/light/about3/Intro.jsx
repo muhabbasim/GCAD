@@ -5,7 +5,7 @@ function Intro() {
     <section className="page-intro position-re">
       <div className="container-fluid rest">
         <div className="img fit-img">
-          <img src="/light/assets/imgs/background/4.jpg" alt="" />
+          <img src="/light/assets/imgs/background/4.jpg" alt="img" />
         </div>
       </div>
       <div className="container section-padding">

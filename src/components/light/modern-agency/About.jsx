@@ -18,7 +18,7 @@ function About() {
                 </div>
                 <div>
                   <div className="img fit-img radius-30">
-                    <img src="/light/assets/imgs/intro/03.jpg" alt="" />
+                    <img src="/light/assets/imgs/intro/03.jpg" alt="img" />
                   </div>
                 </div>
               </div>

@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { ParallaxProvider, useParallax } from 'react-scroll-parallax';
 
@@ -25,37 +25,37 @@ function Porfolios() {
               <div className="thum-work mt-30">
                 <div className="item">
                   <a href="/light/portfolio-standard" target="_blank">
-                    <img src="/landing-preview/img/works/l1.png" alt="" />
+                    <img src="/landing-preview/img/works/l1.png" alt="img" />
                     <span className="fz-14">Standerd</span>
                   </a>
                 </div>
                 <div className="item">
                   <a href="/light/portfolio-masonry" target="_blank">
-                    <img src="/landing-preview/img/works/l2.png" alt="" />
+                    <img src="/landing-preview/img/works/l2.png" alt="img" />
                     <span className="fz-14">Masonry</span>
                   </a>
                 </div>
                 <div className="item">
                   <a href="/light/portfolio-metro" target="_blank">
-                    <img src="/landing-preview/img/works/l3.png" alt="" />
+                    <img src="/landing-preview/img/works/l3.png" alt="img" />
                     <span className="fz-14">Metro</span>
                   </a>
                 </div>
                 <div className="item">
                   <a href="/light/portfolio-sticky" target="_blank">
-                    <img src="/landing-preview/img/works/l4.png" alt="" />
+                    <img src="/landing-preview/img/works/l4.png" alt="img" />
                     <span className="fz-14">Sticky</span>
                   </a>
                 </div>
                 <div className="item">
                   <a href="/light/portfolio-caption-cursor" target="_blank">
-                    <img src="/landing-preview/img/works/l6.png" alt="" />
+                    <img src="/landing-preview/img/works/l6.png" alt="img" />
                     <span className="fz-14">Caption Cursor</span>
                   </a>
                 </div>
                 <div className="item">
                   <a href="/light/portfolio-outline" target="_blank">
-                    <img src="/landing-preview/img/works/l5.png" alt="" />
+                    <img src="/landing-preview/img/works/l5.png" alt="img" />
                     <span className="fz-14">Outline</span>
                   </a>
                 </div>
@@ -68,7 +68,7 @@ function Porfolios() {
               <img
                 className=""
                 src="/landing-preview/img/works/layout.png"
-                alt=""
+                alt="img"
               />
               <div ref={parallax.ref} className="parallax-img" speed={-2}>
                 <img

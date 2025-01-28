@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useEffect } from 'react';
 
 function Portfolio() {
@@ -75,7 +75,7 @@ function Portfolio() {
                 <h4>Iridescent Wallpapers</h4>
               </div>
               <div className="img">
-                <img src="/light/assets/imgs/works/1/1.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/1.jpg" alt="img" />
               </div>
               <div className="more text-u ls1 fz-12">
                 <a href="/light/project6">
@@ -89,7 +89,7 @@ function Portfolio() {
                 <h4>Proof Template</h4>
               </div>
               <div className="img">
-                <img src="/light/assets/imgs/works/1/2.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/2.jpg" alt="img" />
               </div>
               <div className="more text-u ls1 fz-12">
                 <a href="/light/project5">
@@ -103,7 +103,7 @@ function Portfolio() {
                 <h4>Ledge Phone</h4>
               </div>
               <div className="img">
-                <img src="/light/assets/imgs/works/1/3.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/3.jpg" alt="img" />
               </div>
               <div className="more text-u ls1 fz-12">
                 <a href="/light/project4">
@@ -117,7 +117,7 @@ function Portfolio() {
                 <h4>Frame Sans</h4>
               </div>
               <div className="img">
-                <img src="/light/assets/imgs/works/1/4.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/4.jpg" alt="img" />
               </div>
               <div className="more text-u ls1 fz-12">
                 <a href="/light/project3">
@@ -131,7 +131,7 @@ function Portfolio() {
                 <h4>Modern Minimalist</h4>
               </div>
               <div className="img">
-                <img src="/light/assets/imgs/works/1/5.jpg" alt="" />
+                <img src="/light/assets/imgs/works/1/5.jpg" alt="img" />
               </div>
               <div className="more text-u ls1 fz-12">
                 <a href="/light/project2">

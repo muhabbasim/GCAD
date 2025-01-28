@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -72,7 +72,7 @@ function Portfolio() {
                   <SwiperSlide key={i}>
                     <div className="item">
                       <div className="img">
-                        <img src={item.img} alt="" />
+                        <img src={item.img} alt="img" />
                         <div className="cont">
                           <span className="mb-5">{item.title}</span>
                           <h6 className="fz-18">{item.subTitle}</h6>

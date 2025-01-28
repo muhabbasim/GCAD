@@ -12,7 +12,7 @@ function Portfolio() {
                 data-tooltip-tit="Work image"
                 data-tooltip-sub="Design"
               >
-                <img src="/light/assets/imgs/works/stand/1.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/1.jpg" alt="img" />
                 <a href="/light/project1" className="plink"></a>
               </div>
             </div>
@@ -24,7 +24,7 @@ function Portfolio() {
                 data-tooltip-tit="Work image"
                 data-tooltip-sub="Design"
               >
-                <img src="/light/assets/imgs/works/stand/2.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/2.jpg" alt="img" />
                 <a href="/light/project1" className="plink"></a>
               </div>
             </div>
@@ -36,7 +36,7 @@ function Portfolio() {
                 data-tooltip-tit="Work image"
                 data-tooltip-sub="Design"
               >
-                <img src="/light/assets/imgs/works/stand/3.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/3.jpg" alt="img" />
                 <a href="/light/project1" className="plink"></a>
               </div>
             </div>
@@ -48,7 +48,7 @@ function Portfolio() {
                 data-tooltip-tit="Work image"
                 data-tooltip-sub="Design"
               >
-                <img src="/light/assets/imgs/works/stand/4.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/4.jpg" alt="img" />
                 <a href="/light/project1" className="plink"></a>
               </div>
             </div>
@@ -60,7 +60,7 @@ function Portfolio() {
                 data-tooltip-tit="Work image"
                 data-tooltip-sub="Design"
               >
-                <img src="/light/assets/imgs/works/stand/5.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/5.jpg" alt="img" />
                 <a href="/light/project1" className="plink"></a>
               </div>
             </div>
@@ -72,7 +72,7 @@ function Portfolio() {
                 data-tooltip-tit="Work image"
                 data-tooltip-sub="Design"
               >
-                <img src="/light/assets/imgs/works/stand/6.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/6.jpg" alt="img" />
                 <a href="/light/project1" className="plink"></a>
               </div>
             </div>
@@ -84,7 +84,7 @@ function Portfolio() {
                 data-tooltip-tit="Work image"
                 data-tooltip-sub="Design"
               >
-                <img src="/light/assets/imgs/works/stand/7.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/7.jpg" alt="img" />
                 <a href="/light/project1" className="plink"></a>
               </div>
             </div>
@@ -96,7 +96,7 @@ function Portfolio() {
                 data-tooltip-tit="Work image"
                 data-tooltip-sub="Design"
               >
-                <img src="/light/assets/imgs/works/stand/8.jpg" alt="" />
+                <img src="/light/assets/imgs/works/stand/8.jpg" alt="img" />
                 <a href="/light/project1" className="plink"></a>
               </div>
             </div>

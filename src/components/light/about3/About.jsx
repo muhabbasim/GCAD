@@ -35,7 +35,7 @@ function About() {
           </div>
           <div className="col-lg-6">
             <div className="img-vid">
-              <img src="assets/imgs/intro/2.jpg" alt="" />
+              <img src="assets/imgs/intro/2.jpg" alt="img" />
               <div className="curv-butn main-bg">
                 <a href="https://youtu.be/AzwC6umvd1s" className="vid">
                   <div className="icon">

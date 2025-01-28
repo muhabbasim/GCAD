@@ -36,7 +36,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="/light/home-main" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/01.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/01.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Home Main</h6>
               </a>
@@ -46,7 +46,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="Infolio-light/home-main" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/1.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/1.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Home Main (Light)</h6>
               </a>
@@ -56,7 +56,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="/light/home-startup-onepage" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/02.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/02.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Modern Startup</h6>
               </a>
@@ -66,7 +66,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="Infolio-light/home-startup-onepage" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/2.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/2.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Modern Startup (Light)</h6>
               </a>
@@ -76,7 +76,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="/light/home-creative-agency" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/03.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/03.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Creative Agency</h6>
               </a>
@@ -86,7 +86,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="Infolio-light/home-creative-agency" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/3.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/3.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Creative Agency (Light)</h6>
               </a>
@@ -96,7 +96,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="/light/home-modern-agency" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/04.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/04.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Modern Agency</h6>
               </a>
@@ -106,7 +106,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="Infolio-light/home-modern-agency" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/4.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/4.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Modern Agency (Light)</h6>
               </a>
@@ -116,7 +116,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="/light/home-creative-portfolio" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/05.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/05.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Creative Portfolio</h6>
               </a>
@@ -126,7 +126,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="Infolio-light/home-creative-portfolio" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/5.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/5.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Creative Portfolio (Light)</h6>
               </a>
@@ -136,7 +136,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="/light/home-digital-agency" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/06.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/06.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Digital Agency</h6>
               </a>
@@ -146,7 +146,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="Infolio-light/home-digital-agency" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/6.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/6.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Digital Agency (Light)</h6>
               </a>
@@ -156,7 +156,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="/light/home-freelancer" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/07.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/07.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Freelancer</h6>
               </a>
@@ -166,7 +166,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="Infolio-light/home-freelancer" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/7.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/7.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Freelancer (Light)</h6>
               </a>
@@ -176,7 +176,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="/light/home-personal-vcard" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/08.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/08.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Personal vCard</h6>
               </a>
@@ -186,7 +186,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="Infolio-light/home-personal-vcard" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/8.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/8.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Personal vCard (Light)</h6>
               </a>
@@ -196,7 +196,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="/light/home-minimal-portfolio" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/09.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/09.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Minimal Portfolio</h6>
               </a>
@@ -206,7 +206,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="Infolio-light/home-minimal-portfolio" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/9.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/9.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Minimal Portfolio (Light)</h6>
               </a>
@@ -216,7 +216,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="/light/home-asymmetric-portfolio" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/010.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/010.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Asymmetric Portfolio</h6>
               </a>
@@ -226,7 +226,7 @@ function StartDemos() {
             <div className="item text-center">
               <a href="Infolio-light/home-asymmetric-portfolio" target="_blank">
                 <div className="img">
-                  <img src="/landing-preview/img/demos/10.jpg" alt="" />
+                  <img src="/landing-preview/img/demos/10.jpg" alt="img" />
                 </div>
                 <h6 className="mt-15">Asymmetric Portfolio (Light)</h6>
               </a>

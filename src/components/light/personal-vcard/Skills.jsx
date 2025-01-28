@@ -17,7 +17,7 @@ function Skills() {
             <div className="d-flex align-items-center mb-30">
               <div className="mr-30">
                 <div className="img icon-img-40">
-                  <img src="/light/assets/imgs/resume/s1.png" alt="" />
+                  <img src="/light/assets/imgs/resume/s1.png" alt="img" />
                 </div>
               </div>
               <div>
@@ -35,7 +35,7 @@ function Skills() {
             <div className="d-flex align-items-center mb-30">
               <div className="mr-30">
                 <div className="img icon-img-40">
-                  <img src="/light/assets/imgs/resume/s2.png" alt="" />
+                  <img src="/light/assets/imgs/resume/s2.png" alt="img" />
                 </div>
               </div>
               <div>
@@ -53,7 +53,7 @@ function Skills() {
             <div className="d-flex align-items-center mb-30">
               <div className="mr-30">
                 <div className="img icon-img-40">
-                  <img src="/light/assets/imgs/resume/s3.png" alt="" />
+                  <img src="/light/assets/imgs/resume/s3.png" alt="img" />
                 </div>
               </div>
               <div>
@@ -71,7 +71,7 @@ function Skills() {
             <div className="d-flex align-items-center mb-30">
               <div className="mr-30">
                 <div className="img icon-img-40">
-                  <img src="/light/assets/imgs/resume/s4.png" alt="" />
+                  <img src="/light/assets/imgs/resume/s4.png" alt="img" />
                 </div>
               </div>
               <div>

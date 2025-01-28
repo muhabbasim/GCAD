@@ -15,7 +15,7 @@ function Skills() {
             <div className="item mb-30">
               <div className="box-bord main-bg">
                 <div className="img">
-                  <img src="/light/assets/imgs/resume/s1.png" alt="" />
+                  <img src="/light/assets/imgs/resume/s1.png" alt="img" />
                 </div>
                 <span className="value">95%</span>
               </div>
@@ -26,7 +26,7 @@ function Skills() {
             <div className="item mb-30">
               <div className="box-bord main-bg">
                 <div className="img">
-                  <img src="/light/assets/imgs/resume/s2.png" alt="" />
+                  <img src="/light/assets/imgs/resume/s2.png" alt="img" />
                 </div>
                 <span className="value">90%</span>
               </div>
@@ -37,7 +37,7 @@ function Skills() {
             <div className="item mb-30">
               <div className="box-bord main-bg">
                 <div className="img">
-                  <img src="/light/assets/imgs/resume/s3.png" alt="" />
+                  <img src="/light/assets/imgs/resume/s3.png" alt="img" />
                 </div>
                 <span className="value">85%</span>
               </div>
@@ -48,7 +48,7 @@ function Skills() {
             <div className="item mb-30">
               <div className="box-bord main-bg">
                 <div className="img">
-                  <img src="/light/assets/imgs/resume/s5.png" alt="" />
+                  <img src="/light/assets/imgs/resume/s5.png" alt="img" />
                 </div>
                 <span className="value">84%</span>
               </div>
@@ -59,7 +59,7 @@ function Skills() {
             <div className="item mb-30">
               <div className="box-bord main-bg">
                 <div className="img">
-                  <img src="/light/assets/imgs/resume/s4.png" alt="" />
+                  <img src="/light/assets/imgs/resume/s4.png" alt="img" />
                 </div>
                 <span className="value">78%</span>
               </div>
@@ -70,7 +70,7 @@ function Skills() {
             <div className="item mb-30">
               <div className="box-bord main-bg">
                 <div className="img">
-                  <img src="/light/assets/imgs/resume/s6.png" alt="" />
+                  <img src="/light/assets/imgs/resume/s6.png" alt="img" />
                 </div>
                 <span className="value">85%</span>
               </div>

@@ -1,4 +1,4 @@
-'use client';
+
 import React, { useLayoutEffect } from 'react';
 import data from '../../../l-data/portfolios/workstand.json';
 import initIsotope from '../../../common/initIsotope';
@@ -26,7 +26,7 @@ function Portfolio() {
             <div key={i} className={`col-lg-4 col-md-6 items ${item.subTitle}`}>
               <div className="item mt-40">
                 <div className="img">
-                  <img src={item.img} alt="" />
+                  <img src={item.img} alt="img" />
                 </div>
                 <div className="cont mt-20">
                   <h5 className="fz-22">

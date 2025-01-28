@@ -1,4 +1,4 @@
-'use client';
+
 
 import React from 'react';
 
@@ -12,7 +12,7 @@ function ImageScale() {
             src="/light/assets/imgs/background/2.jpg"
             data-speed="0.2"
             data-lag="0"
-            alt=""
+            alt="img"
           />
         </div>
         <div className="text-u text-center ontop">

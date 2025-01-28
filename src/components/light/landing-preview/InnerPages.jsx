@@ -1,4 +1,4 @@
-'use client';
+
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
@@ -75,84 +75,84 @@ function InnerPages() {
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-about" target="_blank">
-                  <img src="landing-preview/img/pages/1.jpg" alt="" />
+                  <img src="landing-preview/img/pages/1.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-about2" target="_blank">
-                  <img src="landing-preview/img/pages/2.jpg" alt="" />
+                  <img src="landing-preview/img/pages/2.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-about3" target="_blank">
-                  <img src="landing-preview/img/pages/3.jpg" alt="" />
+                  <img src="landing-preview/img/pages/3.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-services" target="_blank">
-                  <img src="landing-preview/img/pages/4.jpg" alt="" />
+                  <img src="landing-preview/img/pages/4.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-services2" target="_blank">
-                  <img src="landing-preview/img/pages/5.jpg" alt="" />
+                  <img src="landing-preview/img/pages/5.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-services-details" target="_blank">
-                  <img src="landing-preview/img/pages/6.jpg" alt="" />
+                  <img src="landing-preview/img/pages/6.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-contact" target="_blank">
-                  <img src="landing-preview/img/pages/7.jpg" alt="" />
+                  <img src="landing-preview/img/pages/7.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-contact2" target="_blank">
-                  <img src="landing-preview/img/pages/8.jpg" alt="" />
+                  <img src="landing-preview/img/pages/8.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-contact3" target="_blank">
-                  <img src="landing-preview/img/pages/9.jpg" alt="" />
+                  <img src="landing-preview/img/pages/9.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-team" target="_blank">
-                  <img src="landing-preview/img/pages/10.jpg" alt="" />
+                  <img src="landing-preview/img/pages/10.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-team-single" target="_blank">
-                  <img src="landing-preview/img/pages/11.jpg" alt="" />
+                  <img src="landing-preview/img/pages/11.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <a href="dark/page-FAQS" target="_blank">
-                  <img src="landing-preview/img/pages/12.jpg" alt="" />
+                  <img src="landing-preview/img/pages/12.jpg" alt="img" />
                 </a>
               </div>
             </SwiperSlide>

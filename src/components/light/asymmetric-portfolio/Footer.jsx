@@ -14,7 +14,7 @@ function Footer() {
           <div className="row mt-40 pt-25 bord-thin-top">
             <div className="col-lg-4 col-md-6 md-mb15">
               <div className="logo icon-img-100">
-                <img src="/light/assets/imgs/logo-light.png" alt="" />
+                <img src="/light/assets/imgs/logo-light.png" alt="img" />
               </div>
             </div>
             <div className="col-lg-4 order-md-3">
