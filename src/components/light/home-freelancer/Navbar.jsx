@@ -14,7 +14,7 @@ function Navbar() {
           >
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link" href="/">
+                <a className="nav-link" href="/home">
                   <span className="rolling-text">Home</span>
                 </a>
               </li>
@@ -61,7 +61,7 @@ function Navbar() {
             <div className="col-lg-7">
               <div className="menu-links">
                 <ul className="main-menu rest">
-                  <li data-scroll-nav="0">
+                  <li>
                     <div className="o-hidden">
                       <div className="link cursor-pointer dmenu">
                         <a href='/' className="fill-text" data-text="Home">
